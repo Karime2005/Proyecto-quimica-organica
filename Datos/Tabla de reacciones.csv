@@ -1,0 +1,506 @@
+Sustrato;PF.S(g/mol);P.F.S(°C);P.E.S(°C);D.S(g/cm³)  ;pKa del S;M.D.S (D);Solubilidad  A.S(g/L) ;Presion de vapor del sustrato a Temperatura: 298 K (Pa) ;Producto;PF.P(g/mol);P.F.P(°C);P.E.P (°C);D.P (g/cm³)  ;pKa del producto;M.D.P (D);Solubilidad A.P (g/L) ;Presion de vapor del producto a Temperatura: 298 K (Pa) ;Reactivo;Catalizador 1;Catalizador 2;Catalizador 3;Disolvente;Condicion_1(min);Condicion 2;TR (°C);Medio;Tipo de reaccion ;Nombre de reaccion ;NUMERO CAS SUSTRATO;NUMERO CAS PRODUCTO;NUMERO CAS REACCION;;
+Acetato de Etilo;88,11;-83;77;0,902;26;5,99;146,35;"12400 
+";Acetato de potasio;99,15;292;N/a;1,57;4,8;N/a;N/a;620;Acetato de Etilo;N/a;N/a;N/a;Éter dietílico, dimetilacetamida;2.880;N/a;0;Neutro;Sustitución Nucleófila;Hidrólisis de ésteres ;141-78-6;127-08-2;31-352-CAS-13867606;;
+Acetato de Etilo;88,11;-83;77;0,902;26;5,99;146,35;"12400
+";Butanen itril, 2- etil- 3- oxo- (9CI, ACI);111,14;N/a;55;0,9555;11.372;N/a;N/a;N/a;diisopropilamida de litio Cloruro amónico;N/a;N/a;N/a;Agua Rofurano tetrahidro;60;N/a;-78;Básico;Sustitución Nucleófila;Acilación de cetonas y nitrilos ;141-78-6;1780-46-7;31-614-CAS-33619765;;
+Acetato de Etilo;88,11;-83;77;0,902;26;5,99;146,35;"12400
+";2H- 1- Benzopiran- 6- ol , 3, 4- dihidro- 2, 5, 7, 8- tetram etil- 2- [( 4R, 8R) - 4, 8, 12- trimetil tridecil] - , 6- acetato, (2R) - (ACI);472,74;-27,5 ;200;0,9533 ;N/a;N/a;0,182 ;N/a;N/a;4- (Dimetil lamino) piridina;N/a;N/a;Acetato de etilo;1200;N/a;120;Básico;Sustitución Nucleófila;Transesterificación;141-78-6;58-95-7;31-614-CAS-46273286;;
+Acetato de Etilo;88,11;-83;77;0,902;26;5,99;146,35;"12400
+";?- D - Glucofuranosa , 6-O- [2-O- acetil- 3, 5- bis-O- (fenil metil) - 6-O- 2- propen- 1- il- ?- D - manofu ranosilo] - 1, 2-O- (1- metilet hilideno) - 3, 5- bis-O- ( fenilmetil) - (ACI);824,95;N/a;839,032;1.245;N/a;N/a;N/a;2,30 x 10?²? ;Triflato de plata;N/a;N/a;N/a;Diclorometano;N/a;N/a;N/a;Acido;Sustitución Nucleófila;glicosilación;141-78-6;246162-64-1;31-614-CAS-30796917;;
+Acetato de Etilo;88,11;-83;77;0,902;26;5,99;146,35;"12400
+";3- Ácido piperidinpropanoico, 1- [ ( 1, 1- dimetiletoxi ) carbonilo] - 3- fluoro- ?- oxo- , éster etílico (ACI);317,35;N/a;381,077;1.163;9,679;N/a;N/a;5,21 x 10?? ;bis (trimetilsilil ) amida de sodio , Cloruro de amonio;N/a;N/a;N/a;Tetrahidrofurano, Agua;30;rt;-78;Básico;Sustitución Nucleófila;Acilación de ésteres ;141-78-6;2206703-35-5;31-376-CAS-19975456;;
+Acetato de Etilo;88,11;-83;77;0,902;26;5,99;146,35;"12400
+";2- Ciclohexeno - 1- ácido acético, 1- hidroxi- , éster etílico (8CI, 9CI, ACI);184,23;N/a;265.944;1.089;13,918;N/a;14;1,22 x 10?³ ;Triclorocerio;N/a;N/a;N/a;Tetrahidrofurano;N/a;N/a;N/a;Neutro;Adición nucleofilica;Reacción de condensación ;141-78-6;22406-80-0;31-331-CAS-8027368;;
+Acetato de Etilo;88,11;-83;77;0,902;26;5,99;146,35;"12400
+";Acetamida,N- decil- (8CI, 9CI, ACI);199,33;50;281,326;0,857;16,522;N/a;N/a;3,59 x 10?³ ;N/a;Bis [?- (acetato- ?O: ?O? )] bis (acetato- ?O) octamet hyldi- ? 3 - oxotet ratin;N/a;N/a;Acetato de etilo;2880;reflujo;N/a;Básico;Sustitución Nucleófila;Acilación de nucleófilos de nitrógeno;141-78-6;16423-52-2;31-368-CAS-994842;;
+Acetato de Etilo;88,11;-83;77;0,902;26;5,99;146,35;"12400
+";Etilo (?S) - ?- [[(R) - (1,1 - dimetil ) sulfinil] amino] -2 - hidroxibenzenepropanoato , Rendimiento ;313,41;N/a;476.358;1.211;9,587;N/a;N/a;1,07 x 10?? ;"bis (trimetilsilil ) amida de litio
+Cloruro de amonio";N/a;N/a;N/a;"Tetrahidrofurano
+Agua";210;N/a;-78;Básico;Adición nucleofilica;Adición de enolatos de ésteres a iminas ;141-78-6;2839152-56-4;31-614-CAS-34166354;;
+Acetato de Etilo;88,11;-83;77;0,902;26;5,99;146,35;"12400
+";1- Ácido naftalenacético , 7- fluoro - 1,2,3,4 -tetrahidro - 1 - hidroxi- , éster etílico (9CI, ACI);252,28;N/a;350,093;1.202;13,28;N/a;N/a;1,68 x 10?? ;bis (trimetilsilil ) amida de litio;N/a;N/a;N/a;Tetrahidrofurano;15;rt;rt;Básico;Adición nucleofilica;Reacción de Knoevenagel;141-78-6;162548-90-5;31-331-CAS-2932874;;
+Acetato de Etilo;88,11;-83;77;0,902;26;5,99;146,35;"12400
+";Bencenoetanol , 3- (acetiloxi) - ,1- acetato (ACI);222,24;N/a;293,751;1.132;N/a;N/a;N/a;1,69 x 10?³ ;N/a;N/a;N/a;N/a;Acetato de etilo;2880;reflujo;N/a;Básico;Sustitución Nucleófila;Transesterificación;141-78-6;155757-66-7;31-357-CAS-1113588;;
+Ácido acético, éster fenilo (6CI, 8CI, 9CI, ACI);136,15;-30;196;1.073;14,33;N/a;N/a;0,418;Acetato de Etilo;88,11;-83;77;0,902;26;5,99;146,35;"
+12400";"Etanol
+Acetato de fenilo";"	
+2092416-58-3";N/a;N/a;Etanol;60;N/a;50;Neutro;Sustitución Nucleófila;Transesterificación;122-79-2;141-78-6;31-357-CAS-17070063;;
+Ácido acético, 2- yodo- , éster etílico (ACI);214;<25;90;2.011;N/a;N/a;N/a;0,925;Acetato de Etilo;88,11;-83;77;0,902;26;5,99;146,35;"
+12400";Tiofenol;Azobisis obutironitrilo;0;N/a;Benceno-d6;120;N/a;80;Neutro;Sustitución Nucleófila;Reducción de haluros de alquilo/Deshalogenación;623-48-3;141-78-6;31-530-CAS-522418;;
+"
+ácido etanotioico ,S- éster fenilo (9CI, ACI)";152,21;37,5 ;161;1.135;N/a;N/a;N/a;0,0434;Acetato de Etilo;88,11;-83;77;0,902;26;5,99;146,35;"
+12400";yodo;N/a;N/a;N/a;Etanol;N/a;N/a;N/a;Neutro;Sustitución Nucleófila;Transesterificación;934-87-2;141-78-6;31-357-CAS-1602253;;
+"
+Éster etenílico del ácido acético (9CI, ACI)";86,09;-93,2 ;72,7 ;0,93;N/a;1,79;N/a;118;Acetato de Etilo;88,11;-83;77;0,902;26;5,99;146,35;"
+12400";Hidrogeno;Niquel;N/a;N/a;Etanol;N/a;N/a;120;Neutro;Reducción;Reducción de enlaces dobles o triples/Hidrogenación;108-05-4;141-78-6;31-242-CAS-23402969;;
+"
+aldehído acetálico (8CI, 9CI, ACI)";44,05;-123,5;21;0,788;16,7;2,75;71;>1 x 10?;Acetato de Etilo;88,11;-83;77;0,902;26;5,99;146,35;"
+12400";Acetal aldehído;isopropóxido de aluminio;( Complejos NH 2 -MIL-53(Al)- y NH 2 MIL 101(Al) );N/a;N/a;N/a;rt;N/a;Neutro;condensacion;Reacción de Tishchenko;75-07-0;141-78-6;31-559-CAS-7424322;;
+ácido etanimídico ,N-hidroxi- , éster etílico, (1E) - (9CI, ACI);103,12;N/a;59;0,999;14.199;N/a;N/a;N/a;Acetato de Etilo;88,11;-83;77;0,902;26;5,99;146,35;"
+12400";2- Naftalenocarboxaldehído;percloroetileno hidroxiamonio;N/a;N/a;"Etanol
+Diclorometano-d2";870;N/a;23;Acido;Sustitución Nucleófila;Hidrólisis del doble enlace carbono-nitrógeno y de las enaminas;20703-41-7;141-78-6;31-298-CAS-16360191;;
+Ácido acético, 2- bromo- , éster etílico (ACI);167;N/a;168,5 ;1.503;16,5;N/a;N/a;N/a;Acetato de Etilo;88,11;-83;77;0,902;26;5,99;146,35;"
+12400";"Fluoruro de potasio
+Poli (metilhidroxano )";Azobisis obutironitrilo;N/a;N/a;"Tetrahidrofurano
+Agua";240;N/a;80;Neutro;sustitucion radicalaria;Reducción de haluros de alquilo/Deshalogenación;105-36-2;141-78-6;31-530-CAS-17692820;;
+"
+Etanol (9Cl, AlCl)";46,07;-114,1;78,5 ;0,789 ;15,9;1,7;1000;15800;Acetato de Etilo;88,11;-83;77;0,902;26;5,99;146,35;"
+12400";Etanol;(O C- 6- 13) - Carbonilo [2- ( difenilfosfino- ?P) -N- [2- ( difenilfosfino- ?P) etil] etanamina - ?N] [tetrahído roborato (1- ) - ?H] rutenio;N/a;N/a;"	
+m- Xileno";1440;N/a;120;Neutro;Reducción;Oxidación de alcoholes primarios a ácidos carboxílicos o ésteres carboxílicos;64-17-5;141-78-6;31-614-CAS-37608631;;
+"
+2- Butanona (8CI, 9CI, ACI)";72,11;-86;79,6 ;0,805;24,4;2,8;280;12700;Acetato de Etilo;88,11;-83;77;0,902;26;5,99;146,35;"
+12400";Copolímero de divinilbenceno - estireno;N/a;N/a;N/a;Diclorometano;N/a;N/a;N/a;Acido;Redox;Reordenamiento de Baeyer-Villiger;78-93-3;141-78-6;31-454-CAS-12750184;;
+"
+Ácido fórmico, éster etílico (6CI, 8CI, 9CI, ACI)";74,08;-80,5;54,5 ;0,9168;N/a;1,98;85,11;32239,2;Acetato de Etilo;88,11;-83;77;0,902;26;5,99;146,35;"
+12400";N/a;N/a;N/a;N/a;Tolueno;180;N/a;50;Acido;Adicion electrofilica;Adición de ácidos;109-94-4;141-78-6;31-614-CAS-30734549;;
+Salicilato de metilo;152,15;-8,6 ;220;1.184;9,9; 2,47;0,70 ;4,57 ;"
+Benzaldehído , 2- hidroxi- (9CI, ACI)";122,12;-7;197;1.167;6,79;2,86;17;N/a;Hidrógeno;Alúmina;Óxido de manganeso (MnO );N/a;N/a;N/a;N/a;N/a;Neutro;Redox;Reducción de ácidos carboxílicos, ésteres y anhídridos a aldehídos;119-36-8;90-02-8;31-517-CAS-14722865;;
+Salicilato de metilo;152,15;-8,6 ;220;1.184;9,9; 2,47;0,70 ;4,57 ;"
+Ácido benzoico, 2 -[( 2- metil- 2- propen- 1- il) oxi] - , éster metílico (ACI)";206,24;N/a;120;1,054;N/a;N/a;N/a;N/a;Carbonato de potasio;N/a;N/a;N/a;Dimetilformamida;N/a;Durante la noche;70;Básico;Sustitución Nucleófila;Síntesis de éteres de Williamson;119-36-8;110124-06-6;31-008-CAS-17359852;;
+Salicilato de metilo;152,15;-8,6 ;220;1.184;9,9; 2,47;0,70 ;4,57 ;"
+Benzamida, 2- hidroxi-N- [2- (fenilmetoxi ) etil] - (9CI, ACI)";271,31;N/a;474.201;1,188;8.454;N/a;N/a;N/a;"Salicilato de metilo
+2- (Benciloxi) etilamina";N/a;N/a;N/a;N/a;1440;N/a;60;Neutro;Sustitución Nucleófila;Acilación de nucleófilos de nitrógeno con ésteres carboxílicos y análogos;119-36-8;341018-85-7;31-368-CAS-23517950;;
+Salicilato de metilo;152,15;-8,6 ;220;1.184;9,9; 2,47;0,70 ;4,57 ;"
+Ácido benzoico, 2- metoxi- , éster metílico (9CI, ACI)";166,17;N/a;99;1.146;N/a;N/a;N/a;N/a;Carbonato de potasio;N/a;N/a;N/a;Dimetilformamida;120;N/a;60;Básico;Sustitución Nucleófila;Síntesis de éteres de Williamson;119-36-8;606-45-1;31-614-CAS-24514044;;
+Salicilato de metilo;152,15;-8,6 ;220;1.184;9,9; 2,47;0,70 ;4,57 ;Ácido benzoico, 2- (2- cloroetoxi ) - , éster metílico (9CI, ACI);214,65;N/a;306.825;1,198;N/a;N/a;N/a;N/a;Carbonato de potasio;N/a;N/a;N/a;Metil etil cetona;60;reflujo;N/a;Básico;Sustitución Nucleófila;Alquilación con haluros de alquilo;119-36-8;312631-02-0;31-008-CAS-2019613;;
+Salicilato de metilo;152,15;-8,6 ;220;1.184;9,9; 2,47;0,70 ;4,57 ;Ácido benzoico, 2 -[( 4?- fluoro- 3- nitro [ 1,1?- bifenil] -4 - il) oxi] - , éster metílico (ACI);367,33;N/a;473.104;1,315;N/a;N/a;N/a;N/a;Carbonato de potasio;N/a;N/a;N/a;Dimetilformamida;N/a;Durante la noche;90;Básico;Sustitución Nucleófila;Sustitución aromática ;119-36-8;1887115-50-5;31-170-CAS-17308579;;
+Salicilato de metilo;152,15;-8,6 ;220;1.184;9,9; 2,47;0,70 ;4,57 ;"
+Cloruro de benzoílo, 2- etoxi- (9CI, ACI)";184,62;N/a;270,61;1,181;N/a;N/a;N/a;N/a;Hidróxido de potasio Hidróxido de sodio ácido clorhídrico Fosgeno;N/a;N/a;"Dimetilformamida
+1- Octanos ácido ulfónico, 1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 7, 8, 8, 8- heptadec afluoro- , ytter…";"Acetona Metanol
+Agua";N/a;N/a;50;Básico;Sustitución Nucleófila;Alquilación o sililación de alcoholes;119-36-8;42926-52-3;31-010-CAS-22407824;;
+Salicilato de metilo;152,15;-8,6 ;220;1.184;9,9; 2,47;0,70 ;4,57 ;"
+Ácido benzoico, 5- acetil- 2- hidroxi- , éster metílico (9CI, ACI)";194,18;59-61;345,359;1,235;7.961;N/a;N/a;N/a;N/a;Cloruro de aluminio;N/a;N/a;Nitrob enzene;2;N/a;120;Acido;sustitucion electrofilica;Acilación Friedel-Crafts;119-36-8;16475-90-4;31-091-CAS-1190164;;
+Salicilato de metilo;152,15;-8,6 ;220;1.184;9,9;N/a;0,70 ;4,57 ;"
+Ácido benzoico, 2- (2- propin- 1- iloxi) - , éster metílico (ACI)";190,2;N/a;292.890;1,131;N/a;N/a;N/a;N/a;Carbonato de potasio Bromuro de propargilo;N/a;N/a;N/a;Dimetilformamida;N/a;rt;N/a;Básico;Sustitución Nucleófila;Síntesis de éteres de Williamson;119-36-8;59155-84-9;31-614-CAS-31427487;;
+Salicilato de metilo;152,15;-8,6;220;1.184;9,9;N/a;0,70 ;4,57 ;"
+Benzamida,N, 2- dihidroxi- (9CI, ACI)";153,14;168;N/a;1,402;7,4;N/a;N/a;N/a;"Hidróxido de sodio
+Hidroxi lamina ácido clorhídrico";N/a;N/a;N/a;"1,4 - dioxano
+Agua";30;rt;10;Básico;Sustitución Nucleófila;Acilación de nucleófilos de nitrógeno;119-36-8;89-73-6;31-368-CAS-9151698;;
+Ácido benzoico , 2- hidroxi- (9CI, ACI);154,19;150;60;1,319;2.566;N/a;N/a;N/a;Salicilato de metilo;152,15;-8,6 ;220;1.184;9,9; 2,47;0,70 ;4,57 ;Hidróxido de litio;N/a;N/a;N/a;"Metanol
+Agua";N/a;rt;N/a;Básico;Sustitución Nucleófila;Esterificación de ácidos carboxílicos;7283-41-2;119-36-8;31-356-CAS-10101258;;
+"
+Ácido benzoico, 2- metoxi- , éster metílico (9CI, ACI)";166,17;N/a;99;1.146;N/a;N/a;N/a;N/a;Salicilato de metilo;152,15;-8,6 ;220;1.184;9,9; 2,47;0,70 ;4,57 ;"Cloruro de aluminio
+Yoduro de sodio";N/a;N/a;N/a;N/a;120;N/a;70;Acido;Sustitución Nucleófila;Formación de haluros de alquilo;606-45-1;119-36-8;31-049-CAS-446060;;
+Ácido benzoico, 2 -[( 2- metoxietoxi ) metoxi] - , éster metílico (9CI, ACI);240,25;N/a;337,107;1.125;N/a;N/a;N/a;N/a;Salicilato de metilo;152,15;-8,6 ;220;1.184;9,9; 2,47;0,70 ;4,57 ;2- [( 2- metoxietoxi ) metoxi] benzoato de metilo;Montmorillonita (( Al 1,33-1,67 Mg 0,33-0,67 ) ( Ca 0-1 Na ??0-1 ) 0,33 Si 4 ( OH ) 2 O 10 .xH 2 O);N/a;N/a;Benceno;N/a;N/a;N/a;Acido;Sustitución Nucleófila;Hidrólisis de acetales;81254-82-2;119-36-8;31-006-CAS-5421413;;
+Silano, (diazom etil) trimetil- (8CI, 9CI, ACI);114,22;N/a;96;0,675;N/a;N/a;N/a;N/a;Salicilato de metilo;152,15;-8,6 ;220;1.184;9,9; 2,47;0,70 ;4,57 ;N/a;N/a;N/a;N/a;"éter dietílico
+Metanol
+Tolueno";30;rt;N/a;Apolar;Sustitución Nucleófila;O-Alquilación de sales de ácidos carboxílicos;18107-18-1;119-36-8;31-017-CAS-6122936;;
+Ácido benzoico, 2- hidroxi- (9CI, ACI);138,12;157;211;1.443;3;2,65 ;145;0,011;Salicilato de metilo;152,15;-8,6 ;220;1.184;9,9; 2,47;0,70 ;4,57 ;"Ácido salicílico
+Sulfato de dimetilo	
+bicarbonato de sodio";fosfato monopotásico;N/a;N/a;"Diclorometano
+Agua";30;rt;90;Acido;Sustitución Nucleófila;esterificación de Fisher;69-72-7;119-36-8;31-614-CAS-43477151;;
+"
+Fenol, 2- yodo- (9CI, ACI)";220,01;43;186;1.875;8,5;N/a;N/a;N/a;Salicilato de metilo;152,15;-8,6 ;220;1.184;9,9; 2,47;0,70 ;4,57 ;Triflato de plata;"	
+[2- [Bis (triciclo [3.3.1.1 3, 7 ] dec- 1- il) fosfino- ?P] -N,N- dimetilbencenamina ] clorooro";N/a;N/a;1,2 - dicloroetano;5;N/a;70;Apolar;Sustitución Nucleófila;Carbonilación de sustratos arílicos ;533-58-4;119-36-8;31-614-CAS-40345247;;
+"
+Fenol (8CI, 9CI, ACI)";94,11;40,91 ;181,75;1.071;9,1;4,1;0,882;45,8;Salicilato de metilo;152,15;-8,6 ;220;1.184;9,9; 2,47;0,70 ;4,57 ;Hidróxido de sodio;N/a;N/a;bromuro de benciltrietilamonio;Agua Tolueno;60;N/a;80;Básico;Sustitución Nucleófila;Adición de compuestos organometálicos;108-95-2;119-36-8;31-325-CAS-23253821;;
+Metanamina (9CI, ACI);31,06;-93,5;-6,3 ;0,6624 ;10,63;1,31;10,66;3,36 x 10?;Salicilato de metilo;152,15;-8,6 ;220;1.184;9,9; 2,47;0,70 ;4,57 ;1,2 - dimetoxietano;N/a;N/a;N/a;N/a;1320;rt;N/a;Apolar;Sustitución Nucleófila;O-Alquilación de sales de ácidos carboxílicos;74-89-5;119-36-8;31-017-CAS-4574950;;
+Ácido benzoico, 2- hidroxi- , hidrazida (9CI, ACI);152,15;147;147;1.319;8,569;N/a;N/a;N/a;Salicilato de metilo;152,15;-8,6 ;220;1.184;9,9; 2,47;0,70 ;4,57 ;"	
+2- Ácido yodoxibencenoico";N/a;N/a;N/a;"Metanol
+Cloroformo";30;rt;N/a;Apolar;Sustitución Nucleófila;Alcoholismo de amidas;936-02-7;119-36-8;31-358-CAS-13331982;;
+"
+Ácido benzoico, 2- bromo- , éster metílico (9CI, ACI)";215,04;N/a;241;1.498;N/a;N/a;N/a;N/a;Salicilato de metilo;152,15;-8,6 ;220;1.184;9,9; 2,47;0,70 ;4,57 ;Amoníaco;"triflato de cobre (II )
+triflato de cobre (I)";N/a;N/a;"Acetona
+Aceton itrile
+Agua";N/a;N/a;N/a;Básico;Sustitución Nucleófila;Hidroxilación de haluros aromáticos;610-94-6;119-36-8;31-168-CAS-16889714;;
+Acetato de isoamilo ;130.19;-78,5;142,5 ;0,876;25;1,77;2;667;1-Butanol, 3-metil-4-(2-propen-1-ilsulfonil)-, 1-acetato (ACI);234.31;N/a;369,783;1,097;N/a;N/a;3;N/a;Dióxido de azufre;Clorotrimetilsilano;Thianthrene;Cloruro de hierro (FeCl3);Acetonitrilo y Agua ;720; rt;N/a;Básico;Sustitución electrofílica ;Sulfinilación mediada por fotocatálisis y dióxido de azufre;123-92-2; 3136466-79-7; 31-614-CAS-51180860;;
+Acetato de isoamilo ;130.19;-78,5;142,5 ;0,876;25;1,77;2;667;2H-Tetrazole-2-propanol, ?,?-dimethyl-5-phenyl-, 2-acetate;274.32;N/a;427,578;"
+1,180";0,891;N/a;0;N/a;tert-Hidroperóxido de butilo;"
+Yoduro de tetrabutilamio";N/a;N/a;"Acetato de isoamilo
+Agua";N/a;rt;80;Neutro;Sustitución nucleofílica;Reacción de aminación CDC (Cross-Dehydrogenative Coupling) mediada por radicales;123-92-2;2747250-28-6;31-614-CAS-24763453;;
+Acetato de isoamilo ;130.19;-78,5;142,5 ;0,876;25;1,77;2;667;1-Ciclopenteno-1-ol, 1-acetato;"
+126.15";N/a;42;1,0071;N/a;N/a;4;N/a;N/a;Ácido sulfúrico;N/a;N/a;Acetato de isoamilo;120;N/a;100;Ácido;"	Sustitución nucleofílica";Reacciones catalizadas por ácido sulfúrico (formación de ésteres de enol);123-92-2;933-06-2;31-356-CAS-1900654;;
+Acetato de isoamilo ;130.19;-78,5;142,5 ;0,876;25;1,77;2;667;1,2-Bis(1-metiletil) 1-[3-(acetiloxi)-1,1-dimetilpropil]-1,2-hidrazidicarbo...;332.39;N/a;N/a;"
+1,096";"
+9.118";N/a;0;N/a;N/a;"
+Pirilio, 2,4,6-tris(4-metilfenilo)-, tetrafluoroborato(1-) (1:1)";N/a;N/a;Dibromometano;1440;N/a;50;Neutro;Sustitución nucleofílica;Aminación y alquilación mediada por radicales de bromo promovida por luz;123-92-2;2414612-93-2;31-614-CAS-29394144;;
+Acetato de isoamilo ;130.19;-78,5;142,5 ;0,876;25;1,77;2;667;1-Butanol, 3-metil-3-[(1-fenil-1H-tetrazol-5-il)tio]-, 1-acetato;306.38;N/a;462,601;1,241;"
+0,021";N/a;0;N/a;N/a;Eosina;N/a;N/a;1,1,1,3,3,3-Hexafluoro-2-propanol;1440;rt;n/a;Neutro;Sustitución radicalaria;Tiolación con N-feniltetrazol asistida por fotocatálisis;123-92-2;3049303-60-5;31-614-CAS-40888579;;
+Acetato de isoamilo ;130.19;-78,5;142,5 ;0,876;25;1,77;2;667;2(3H)-Furanone, 5-[4-(acetyloxy)-2,2-dimethylbutyl]-5-(4-fluorobenzoyl)dihydro-,…;350.38;N/a;481,546;1,184;N/a;N/a;0;N/a;tert-Peróxido de butilo;"	
+Triflate de cobre(II)";Oxazol, 2,2?-ciclopropilidenebis[4-[1-[[(1,1-dimetilil)dimetilsilil]oxi]-1...;N/a;1-cloro-3,5-difluorobenzeno;4320;rt;20;Neutro;Sustitución radicalaria;Reacción enantioselectiva de carbohidratos de alquenos asistida por ligandos oxazolina quirales;123-92-2;3038838-03-5;31-614-CAS-48051768;;
+Acetato de isoamilo ;130.19;-78,5;142,5 ;0,876;25;1,77;2;667;2(3H)-Furanona, 5-[4-(acetiloxi)-2,2-dimetilbutilo]-5-(4-fluorobenzoilo)dihidro-,...;350.38;N/a;"
+481,546";"
+1,184";N/a;N/a;0;N/a;tert-Peróxido de butilo;"
+Triflate de cobre(II)";Oxazol, 2,2?-ciclopropilidenebis[4-[1-[[(1,1-dimetilil)dimetilsilil]oxi]-1...;N/a;1-cloro-3,5-difluorobenzeno;4320;N/a;20;Neutro;ustitución radicalaria;Oxigenación altamente enantioselectiva de carbohidratos de alquenos;123-92-2;3038838-03-5;31-614-CAS-40408759;;
+Acetato de isoamilo ;130.19;-78,5;142,5 ;0,876;25;1,77;2;667;N-[3-(Acetiloxi)-1,1-dimetilpropil]acetamida;187.24;58,9;328,688;1,004;16.236;N/a;26;N/a;Ácido yódico;"
+N-Hidroxiftalmida";N/a;N/a;Acetonitrilo;1440;N/a;80;Acido;Sustitución nucleofílica;Reacción de Ritter catalizada por radicales oxilo (mediada por NHPI;123-92-2;2021197-64-6;31-212-CAS-16381186;;
+Acetato de isoamilo ;130.19;-78,5;142,5 ;0,876;25;1,77;2;667;1-Butanol, 4-(difenilfosfino)-3-metil-, 1-acetato;314.36;N/a;413,27;N/a;N/a;N/a;0;N/a;N/a;"
+Cloruro de hierro (FeCl3)";N/a;N/a;"Acetonitrilo
+Cloroacetonitrilo";240;rt;n/a;Acido;Sustitución radicalaria;Fosforilación por transferencia de carga ligando a hierro inducida por fotoinducción;123-92-2;3029443-70-4;31-614-CAS-40337810;;
+Acetato de isoamilo ;130.19;-78,5;142,5 ;0,876;25;1,77;2;667;1,3,2-Dioxaborola-2-butanol, ?,4,4,5,5-pentametil-, 2-acetato;"
+256.15";N/a;"
+294,265";0,972 ;N/a;N/a;N/a;N/a;N-Fluorobenzenesulfonimida;Cloruro ferroso;N/a;N/a;"
+Acetonitrilo";960;N/a;35;Acido;Sustitución radicalaria;Funcionalización de C(sp³) catalizada por hierro asistida por transferencia de carga fotoinducida;123-92-2;2920831-20-3;31-614-CAS-36066258;;
+Anhídrido acético;102.09;"
+-73";139,5;1,082 ;N/a;"	2.8";262;N/a;Acetato de isoamilo ;130.19;-78,5;142,5;0,876 ;N/a;186;2;756;N/a;Zinc;N/a;N/a;Acetonitrilo;60;N/a;80;Neutro;sustitución nucleofílica;Acetilación de alcoholes con anhídrido acético catalizada por zinc;108-24-7;123-92-2;31-355-CAS-16482400;;
+Ácido acético;60.05;"
+16,6";117,9 ;1,0446;"
+4.8";"	17,4";1000;2100;Acetato de isoamilo ;130.19;-78,5;142,5;0,876 ;N/a;186;2;756;Yoduro de sodio;Dowex 50W-X8;N/a;N/a;N/a;120;N/a;50;Acido;Sustitución nucleofílica;Esterificación de ácido acético catalizada por resina ácida (Dowex 50W-X8);64-19-7;123-92-2;31-356-CAS-15603198;;
+Ácido acético, éster de 4-nitrofenil (9CI, ACI);"
+181.15";78;296.789;1.304;"
+~8.8";N/a;1;N/a;Acetato de isoamilo ;130.19;-78,5;142,5;0,876 ;N/a;186;2;756;N/a;Lipasa triacilglicerol;N/a;N/a;Hexano;720;N/a;50;Neutro;sustitución nucleofílica;Transesterificación biocatalizada por lipasas inmovilizadas;830-03-5;123-92-2;31-357-CAS-11107230;;
+Éster de etenil de ácido acético (9IC, ACI);86.09;-93,2;"
+72,7";"
+0,932";N/a;1,79;25;N/a;Acetato de isoamilo ;130.19;-78,5;142,5;0,876 ;N/a;186;2;756;N/a;Lipasa triacilglicerol;N/a;N/a;Hexano;1440;N/a;55;Neutro;Sustitución nucleofílica;Síntesis enzimática de acetatos (Resolución cinética / Transesterificación con acetato de vinilo);108-05-4;123-92-2;31-357-CAS-8375628;;
+Cloruro de acetilo (8CI, 9CI, ACI);78.50;"
+-112";"
+52 ";"
+1,1051 ";"
+19.3";N/a;85;N/a;Acetato de isoamilo ;130.19;-78,5;142,5;0,876 ;N/a;186;2;756;N/a;Cobre(4+), [1,8,15,22-tetrametil-29H,31H-tetrapyrido[2,3-b:2',3'-g:2'',3''-/:2...;N/a;N/a;Diclorometano;240;rt ;N/a;Neutro; Sustitución nucleofílica;Acilación quimioselectiva de alcoholes con cloruro de acetilo catalizada por complejos de cobre;75-36-5;123-92-2;31-354-CAS-8234769;;
+1-Pentanol (9CI, ACI);"
+88.15";"
+-79";"
+137,5";0,8146;367.3;1,73;27;313;Acetato de isoamilo ;130.19;-78,5;142,5;0,876 ;N/a;186;2;756;N/a;Lipasa triacilglicerol;N/a;N/a;Heptano, Agua;4320;N/a;37;Neutro;Sustitución nucleofílica;Proceso de esterificación enzimática para la preparación de ésteres de amilcarboxilados;71-41-0;123-92-2; 31-614-CAS-28399091;;
+1,3-Butadieno, 2-metil- (9IC, ACI);68.12;"
+-145,95";"
+34,067 ";"
+0,681";N/a;0,25;0;N/a;Acetato de isoamilo ;130.19;-78,5;142,5;0,876 ;N/a;186;2;756;N/a;Acetato de zinc;Carbono;N/a;N/a;N/a;N/a;120;Acido;Sustitución nucleofílica;Producción continua de acetato de isopentenilo mediante esterificación catalizada por acetato de zinc/carbón;78-79-5;123-92-2;31-237-CAS-12206345;;
+Éster etílico de ácido acético (8CI, 9CI, ACI);"
+88.11";-83;77;0,902;26;5,99;900;14892;Acetato de isoamilo ;130.19;-78,5;142,5;0,876 ;N/a;186;2;756;N/a;Estaño;N/a;N/a;Acetato de etilo;480;reflujo;77;Neutro;Sustitución nucleofílica;Acilación selectiva trinuclear de alcoholes catalizada por clústeres de salicildoximato de estaño;141-78-6;123-92-2;31-357-CAS-14282981;;
+Acetonitrilo (8CI, 9IC, ACI);41,05;-45;81,6;0,78745;32;"	36,7 ";1000;12200;Acetato de isoamilo ;130.19;-78,5;142,5;0,876 ;N/a;186;2;756;Agua;1-Metil-3-(3-sulfopropil)sulfato de hidrógeno imidazolio;N/a;N/a;N/a;480;reflujo;82;Acido;Sustitución nucleofílica;Alcoholisis del acetonitrilo provocada por líquido iónico ácido de Brønsted;75-05-8;123-92-2; 31-305-CAS-3645565;;
+ácido butanoico, 3-metil- (9CI, ACI);102.13;"
+-29,3";"
+176,5";0,931 ;"
+4.77";N/a;21;N/a;Acetato de isoamilo ;130.19;-78,5;142,5;0,876 ;N/a;186;2;756;N/a;Óxido de hierro ;Sulfato;N/a;N/a;120;rt ;118;Acido;Sustitución nucleofílica;Síntesis de acetato de isopentilo catalizada por superácido sólido ;503-74-2;123-92-2;31-614-CAS-26113097;;
+Butirato de etilo;116.16;-100,8;120;0,879;25;1,8;4,9;2066;Butanamida, N-butilo- (9CI, ACI);143.23;N/a;136-139 ;0,8828;16.611;N/a;6;N/a;N/a;Lipasa triacilglicerol;N/a;N/a;Etilbutirato;N/a;N/a;N/a;Neutro;Sustitución nucleofílica;Acilación de nucleófilos nitrogénicos con ésteres carboxílicos y análogos;105-54-4;10264-16-1;31-368-CAS-11184355;;
+Butirato de etilo;116.16;-100,8;120;0,879;25;1,8;4,9;2066;"2-Butanone, O-(1-oxobutil)oxima (ACI)
+";157.21;N/a;203,92;"
+0,941";N/a;N/a;6;N/a;N/a;Etóxido de sodio;N/a;N/a;N/a;300;rt ;100;Básico;Sustitución nucleofílica;Método para la preparación del éster de oxima por transesterificación;105-54-4;1929550-50-4;31-357-CAS-15642478;;
+Butirato de etilo;116.16;-100,8;120;0,879;25;1,8;4,9;2066;ácido butanoico, éster 1,1?-(1-metil-1,2-etanolediilo) éster (ACI);216.27;N/a;268,142;0,995;N/a;N/a;1;N/a;4-Metoxifenol;1,1'-(1,1,3,3-tetrametil-1,3-distanoxanediilo) dioctadecanoato;N/a;N/a;N/a;240;rt ;100;Neutro;Sustitución nucleofílica;Preparación de productos transesterificados en presencia de catalizadores distanosivos predeterminados;105-54-4;50980-84-2;31-357-CAS-11440500;;
+Butirato de etilo;116.16;-100,8;120;0,879;25;1,8;4,9;2066;Ácido butanoico, éster hexilálico (9CI, ACI);172.26;-78;76;0,82076;N/a;N/a;0;N/a;4-Metoxifenol;1,1'-(1,1,3,3-tetrametil-1,3-distanoxanediilo) dioctadecanoato;N/a;N/a;N/a;120;rt ;100;Neutro;Sustitución nucleofílica;Preparación de productos transesterificados en presencia de catalizadores distanosivos predeterminados;105-54-4;2639-63-6;31-614-CAS-26301824;;
+Butirato de etilo;116.16;-100,8;120;0,879;25;1,8;4,9;2066;Butanamida, N-(fenilmetil)- (9IC, ACI);177.24;45;120;0,997;16.473;N/a;2;N/a;N/a;Grafito (óxido);N/a;N/a;N/a;480;rt ;80;Acido;Sustitución nucleofílica;Amidación de ésteres con aminas facilitada por carbocatalizador libre de metales (Óxido de grafeno);105-54-4;10264-14-9;31-368-CAS-21615644;;
+Butirato de etilo;116.16;-100,8;120;0,879;25;1,8;4,9;2066;Butanamida, N-(fenilmetil)- (9IC, ACI);177.24;45;120;0,997;16.473;N/a;2;N/a;N/a;(T-4)-(N,N-Dietilbenzenamina) triiodoborón;N/a;N/a;Benzeno;N/a;N/a;80;Acido;Sustitución nucleofílica;Amidación de ésteres promovida por triyoduro de boro;105-54-4;10264-14-9;31-368-CAS-1769296;;
+Butirato de etilo;116.16;-100,8;120;0,879;25;1,8;4,9;2066;Ácido butanoico, éster butílico (9CI, ACI);144.21;"
+-91,5 ";163;"
+0,87 ";N/a;N/a;2;N/a;4-Metoxifenol;1,1'-(1,1,3,3-tetrametil-1,3-distanoxanediilo) dioctadecanoato;N/a;N/a;N/a;120;N/a;100;Neutro;Sustitución nucleofílica;Preparación de productos transesterificados en presencia de catalizadores distanosivos predeterminados;105-54-4;109-21-7;31-614-CAS-27901915;;
+Butirato de etilo;116.16;-100,8;120;0,879;25;1,8;4,9;2066;Ácido butanoico, éster ciclohexilálico (9CI, ACI);170.25;N/a;99;0,9395 ;N/a;N/a;1;N/a;4-Metoxifenol;1,1'-(1,1,3,3-tetrametil-1,3-distanoxanediilo) dioctadecanoato;N/a;N/a;N/a;480;N/a;100;Neutro;Sustitución nucleofílica;Preparación de productos transesterificados en presencia de catalizadores distanosivos predeterminados;105-54-4;1551-44-6;31-357-CAS-13895636;;
+Butirato de etilo;116.16;-100,8;120;0,879;25;1,8;4,9;2066;1-Butanol (9IC, ACI);74.12;-89,8;117,7;0,8098;16.1;"	2,569 ";"	80";1040;Hidrógeno;(SP-5-52)-[6-[[Bis(1,1-dimetiletil)fosfino-$\kappa$P]metileno]-N,N-Dietil-1,6-DIH...;N/a;N/a;1,4-Dioxano;240;reflujo;101;Neutro;Oxidación-reducción;Reducción catalítica de ésteres a alcoholes mediada por complejos de Rutenio;105-54-4;71-36-3;31-515-CAS-17554721;;
+Butirato de etilo;116.16;-100,8;120;0,879;25;1,8;4,9;2066;Éster de ácido butanoico, éster 1,1?-[1,2-etanediylbis(oxi-2,1-etanoldiilo)] (ACI);"
+290.35";N/a;359.089;1,04;N/a;N/a;6;N/a;4-Metoxifenol;1,1'-(1,1,3,3-tetrametil-1,3-distanoxanediilo) dioctadecanoato;N/a;N/a;N/a;240;N/a;100;Neutro;Sustitución nucleofílica;Preparación de productos transesterificados en presencia de catalizadores distanosivos predeterminados;105-54-4;26962-26-5; 31-357-CAS-7501397;;
+Ácido butanoico, éster de 1,2,3-propanetrilo (9CI, ACI);302.36;"
+-75";"
+305";"
+1,0350 ";N/a;N/a;0;N/a;Butirato de etilo;116.16;-100,8;120;0,879 ;N/a;2.03;7,9;"	1853";N/a;Lipasa triacilglicerol (inmovilizado);N/a;N/a;Agua;N/a;rt ;N/a;Acido;Sustitución nucleofílica;Evaluacion de diferentes lipasas inmovilizadas en reacciones de transesterificacion usando tributirina;60-01-5;105-54-4;31-357-CAS-16276949;;
+Cloruro de butanoil (9CI, ACI);"
+106.55";-89;"
+101";"
+1,0263";N/a;N/a;11;N/a;Butirato de etilo;116.16;-100,8;120;0,879 ;N/a;2.03;7,9;"	1853";N/a;Ácido sulfúrico;N/a;N/a;Etanol, Agua;300;N/a;60;Acido;Sustitución nucleofílica;Esterificación Fischer básica;141-75-3;105-54-4;31-614-CAS-41885721;;
+Ácido butanoico, 2-bromo-, éster etílico (9CI, ACI);"
+195.05";142;"
+184";"
+1,27522";N/a;N/a;4;N/a;Butirato de etilo;116.16;-100,8;120;0,879 ;N/a;2.03;7,9;"	1853";Bicarbonato de sodio, Trifenilfosfina, Fenilsilano;Molibdeno hexacarbonilo;N/a;N/a;Tetrahidrofurano;N/a;N/a;N/a;Básico;Oxidación-reducción;Deshalogenación reductiva con Mo(0);533-68-6;105-54-4;31-530-CAS-3283471;;
+Ácido 2-butenoico, éster etílico (9CI, ACI);"
+114.14";N/a;"
+133";0,9182;N/a;N/a;7;N/a;Butirato de etilo;116.16;-100,8;120;0,879 ;N/a;2.03;7,9;"	1853";Hidrógeno;Palladio;N/a;N/a;Acetato de etilo;300;N/a;25;Neutro;Oxidación-reducción;Hidrogenación catalítica con Pd;10544-63-5;105-54-4;31-244-CAS-12756752;;
+Ácido butanoico (9CI, ACI);88.11;-7,9;165,5;0,9577;"
+4.83";1,65;"	66,06";126;Butirato de etilo;116.16;-100,8;120;0,879 ;N/a;2.03;7,9;"	1853";N/a;Lipasa triacilglicerol;N/a;N/a;Hexano;1080;N/a;30;Neutro;Sustitución nucleofílica;Síntesis de butirato de etilo;107-92-6;105-54-4;31-356-CAS-9271411;;
+1-Propeno (9IC, ACI);42.08;-185;"
+-48";0,5;43;"	4.9 ";1;1,158 x 10? ;Butirato de etilo;116.16;-100,8;120;0,879 ;N/a;2.03;7,9;"	1853";N/a;4-(Dimetilamino)piridina;Octacarbonilo dicobal;p-Ácido toluenesulfónico sal trietilamina;Tetrahidrofurano;2880;rt ;60;Básico;Adición nucleofílica;Carbonilación fotoinducida con Co;115-07-1;105-54-4;31-614-CAS-45382934;;
+Ácido acético, éster 2-diazo-, etílico (ACI);114.10;"
+-22";"
+58-60";N/a;N/a;N/a;"	116";N/a;Butirato de etilo;116.16;-100,8;120;0,879 ;N/a;2.03;7,9;"	1854";N/a;Plata, [tris[4-bromo-3,5-bis(trifluorometil)-1H-pyrazolato-$\kappa N^1$]hidroborato(1-)...;N/a;N/a;Etano, Dióxido de carbono;240;rt ;40;Neutro;Sustitución radicalaria;Inserción de diazo en C–H;623-73-4;105-54-4;31-136-CAS-20559636;;
+Ácido butanoico, éster 4-bromo-, etílico (9CI, ACI);195.05;98;97-99;"
+1,31192";N/a;N/a;5;N/a;Butirato de etilo;116.16;-100,8;120;0,879 ;N/a;2.03;7,9;"	1855";Peróxido de lauroil, Trietilsilano;tert-Dodecyl mercaptan;N/a;N/a;Ciclohexano;60;reflujo;~80,7;Neutro;Sustitución radicalaria;Deshalogenación con trietilsilano;2969-81-5;105-54-4;31-530-CAS-16508733;;
+Ácido 2-butenoico, éster etílico, (2E)- (9CI, ACI);114.14;N/a;136;"
+0,9210";N/a;N/a;7;N/a;Butirato de etilo;116.16;-100,8;120;0,879 ;N/a;2.03;7,9;"	1856";Litio, Dicloruro de níquel (Paso 1) / Etanol (Paso 2);1,1'-bifenilo, 4-etenilo-, polímero con dietenilbenceno;N/a;N/a;Tetrahidrofurano;10;rt ;N/a;Básico; Oxidación-reducción;Reducción conjugada con Ni;623-70-1;105-54-4;31-244-CAS-1398308;;
+ácido butanoico, éster 2-cloro-, etílico (9CI, ACI);150.60;152;64,2;"
+1,050";N/a;N/a;5;N/a;Butirato de etilo;116.16;-100,8;120;0,879 ;N/a;2.03;7,9;"	1857";N/a;Amberlite IRA 400 Borohidruro de sodio (Paso 1);Acetato de níquel (Paso 2);N/a;Metanol (Paso 2);180;rt ;N/a;Básico;Oxidación-reducción;Reducción con boruro de níquel;7425-45-8;105-54-4;31-530-CAS-16196702;;
+ Lactato de etilo;118.13;-25.0;154;102.274;13.208;2.4 ;472.8 ;159.6 ;Ethyl 2-[(tetrahydro-2H-pyran-2-yl)oxy]propanoate;202.25;N/a;76;1.051;N/a;N/a;10 ;"	1858";3,4-dihidro-2H-pirano;p-toluenosulfonato de piridinio;N/a;N/a;Diclorometano;1080;rt;N/a;Ácido; Sustitución nucleofílica;Tetrahidropiranilación (protección THP);97-64-3;3539-40-0;31-236-CAS-19626682;;
+ Lactato de etilo;118.13;-25.0;154;102.274;13.208;2.4 ;472.8 ;159.6 ;(±)-Propilenglicol;76.09;"
+-59";188.2;1.036;14.9;3.6;1000 ;"	1859";Hidrógeno;Cobalto;N/a;N/a;Etanol;120;N/a;160 ;Apolar;Oxidación-reducción;Reducción de ésteres carboxílicos a alcoholes;97-64-3;57-55-6;31-614-CAS-32381828;;
+ Lactato de etilo;118.13;-25.0;154;102.274;13.208;2.4 ;472.8 ;159.6 ;éster etílico del ácido 2-(acetiloxi)propanoico;160.17;N/a;74;10.460;N/a;N/a;16;N/a;N/a;4-(dimetilamino)piridina;N/a;N/a;Anhídrido acético;300;N/a;70;Ácido; Sustitución nucleofílica;Alcólisis de anhídridos;97-64-3;2985-28-6;31-355-CAS-11643374;;
+ Lactato de etilo;118.13;-25.0;154;102.274;13.208;2.4 ;472.8 ;159.6 ;Piruvato de etilo;116.12;-50;144;1.05;N/a;N/a;103;N/a;Peróxido de hidrógeno;N-bromosuccinimida;N/a;N/a;Acetato de propilo;240;rt;N/a;Neutro;Oxidación-reducción;Oxidación de alcoholes;97-64-3;617-35-6;31-614-CAS-47810768;;
+ Lactato de etilo;118.13;-25.0;154;102.274;13.208;2.4 ;472.8 ;159.6 ;L-tirosina, polímero con ácido 2-hidroxipropanoico;271.27;N/a;N/a;N/a;N/a;N/a;N/a;N/a;Ácido etilendiaminotetraacético;L-(+)-CisteínaPapaína;N/a;N/a;Agua;1440;N/a;N/a;Ácido;Adición radicalaria;Oligomerización enzimática;97-64-3;569681-82-9;31-614-CAS-29146356;;
+ Lactato de etilo;118.13;-25.0;154;102.274;13.208;2.4 ;472.8 ;159.6 ;Éster etílico del ácido 7-fluoro-4,5-dihidro-4-metilpirrolo[1,2-a]quinoxalina-4-carboxílico (ACI);274.29;N/a;389.437;1.279;-0.157;N/a;0;N/a;5-fluoro-2-(1H-pirrol-1-il)bencenamina;3060960-25-7;N/a;N/a;N/a;3;rt;N/a;Neutro;Condensación;Alquilación de Friedel-Crafts;97-64-3;3060960-11-1;31-614-CAS-42286662;;
+ Lactato de etilo;118.13;-25.0;154;102.274;13.208;2.4 ;472.8 ;159.6 ;4,6,8-trimetil-6-[3-(2-tiiranilmetoxi)propil]-3,5,7,9-tetraoxa-6-silaundecano;352.56;N/a;378.272;1.036;N/a;N/a;1;N/a;N/a;Dimetilformamida;N/a;N/a;Ciclohexano;300;N/a;50;Neutro;Sustitución nucleofílica;Síntesis de acoplamiento de silanos;97-64-3;2738601-52-8;31-614-CAS-24949905;;
+ Lactato de etilo;118.13;-25.0;154;102.274;13.208;2.4 ;472.8 ;159.6 ;L-triptófano, polímero con ácido 2-hidroxipropanoico;294.30;N/a;N/a;N/a;N/a;N/a;N/a;N/a;Ácido etilendiaminotetraacético;L-(+)-Cisteína;Papaina;N/a;Agua;1440;N/a;N/a;Ácido;Adición radicalaria;Oligomerización enzimática enantioselectiva;97-64-3;569681-84-1;31-614-CAS-27637365;;
+ Lactato de etilo;118.13;-25.0;154;102.274;13.208;2.4 ;472.8 ;159.6 ;5-metil-5-(2-metilpropil)-2,4-oxazolidindiona;"
+171.19";N/a;N/a;1.082;6.082;N/a;5;N/a;Ácido clorhídrico;Cloruro de aluminio;N/a;N/a;Agua;720;reflujo;N/a;Apolar;Sustitución electrofílica;Reacción de síntesis de oxazolidindionas;97-64-3;1394893-97-0;31-614-CAS-25224495;;
+ Lactato de etilo;118.13;-25.0;154;102.274;13.208;2.4 ;472.8 ;159.6 ;Éster 2-etoxi-1-metil-2-oxoetílico del ácido 2-propenoico (9CI, ACI);172.18;N/a;212.718;1.056;N/a;N/a;6;N/a;Ácido acrílico;Ácido sulfúrico;N/a;N/a;Tolueno;660;N/a;60;Ácido;Sustitución electrofílica;Esterificación de ácidos carboxílicos;97-64-3;86367-05-7;31-356-CAS-7681865;;
+Ácido láctico;90.08;16.8 ;122 ;1.249 ;3.84;N/a;679;N/a;Lactato de etilo;118.13;-25.0;154;102.274;13.208;2.4 ;472.8 ;159.6 ;N/a;Ácido sulfúrico;N/a;N/a;Etanol;120;N/a;150;Ácido;Sustitución electrofílica;Esterificación de ácidos carboxílicos;50-21-5;97-64-3;31-356-CAS-22206415;;
+Piruvato de etilo;116.12;-50;144;1.05;N/a;N/a;103;N/a;Lactato de etilo;118.13;-25.0;154;102.274;13.208;2.4 ;472.8 ;159.6 ;Hidrógeno;Rutenio;?-Ciclodextrina, 6A-[4-[[[(2S)-2-amino-4-metil-1-oxopentil]amino]metil]-1H-1,2,3-triazol-1-il]-6A-desoxi- (ACI);N/a;Agua;360;N/a;N/a;Neutro;Oxidación-reducción;Reducción de aldehídos y cetonas a alcoholes;617-35-6;97-64-3;31-513-CAS-8282342;;
+Gliceraldehído;90.08;145;228.018;1.593;12.599;N/a;763 ;N/a;Lactato de etilo;118.13;-25.0;154;102.274;13.208;2.4 ;472.8 ;159.6 ;Bicarbonato de sodio;Triflato de estaño(II);N/a;N/a;Etanol;240;N/a;140 ;Ácido;Oxidación-reducción;Oxidación de alcoholes primarios a ácidos carboxílicos o ésteres carboxílicos;56-82-6;97-64-3;31-499-CAS-22494979;;
+Dihidroxiacetona;90.08;"
+90";213.704;"
+1.283";12.447;N/a;"
+8.35";N/a;Lactato de etilo;118.13;-25.0;154;102.274;13.208;2.4 ;472.8 ;159.6 ;N/a;Ácido silícico (H4SiO4);éster tetraetílico;polímero con trietoximetilsilano;Etanol;360;rt;90;Ácido; Sustitución nucleofílica;Reducción de aldehídos y cetonas a alcoholes;96-26-4;97-64-3;31-499-CAS-19420241;;
+Lactato de metilo;"
+104.10";-66;144;1.09;13.073;N/a;1000;252.7;Lactato de etilo;118.13;-25.0;154;102.274;13.208;2.4 ;472.8 ;159.6 ;N/a;Cloruro de colina;Etilenglicol;Óxido de cobre (Cu2O);Etanol;240;N/a;80;Neutro;Sustitución nucleofílica;Transesterificación catalizada por óxido metálico en medio de líquido iónico;547-64-8;97-64-3;31-614-CAS-51421259;;
+(±)-Poli(ácido láctico);90.08;"
+168.5";N/a;1.25;N/a;N/a;N/a;N/a;Lactato de etilo;118.13;-25.0;154;102.274;13.208;2.4 ;472.8 ;159.6 ;N/a;1H-imidazolio, 1-metil-3-propil-, 2-hidroxipropanoato (1:1);N/a;N/a;Etanol;1080;rt;100 ;Ácido;Sustitución nucleofílica;Alcohólisis de poli(ácido láctico) catalizada por líquido iónico;26100-51-6;97-64-3;31-614-CAS-41529837;;
+Acrilato de etilo;100.12;-71.2;"
+99.4 ";0.9234;N/a;1.96 ;14;4508.7;Lactato de etilo;118.13;-25.0;154;102.274;13.208;2.4 ;472.8 ;159.6 ;Pinacolborano;Cobre, hexa-?3-hidrohexakis(trifenilfosfina)hexa-, octaédrico (9CI, ACI);4,4?-Bi-1,3-benzoxafosfol, 7,7?-bis(2,6-dimetoxifenil)-3,3?-bis(1,1-dimetiletil)-2,2?,3,3?-tetrahidro-2,2?-bis(1-metiletil)-, (2R,2?R,3R,3?R)- (ACI);N/a;Tolueno;1320;rt;N/a;Neutro;Adición electrofílica;Formación de alcoholes a partir de alquenos;140-88-5;97-64-3;31-614-CAS-41876270;;
+Dímero de dihidroxiacetona;"
+90.08";N/a;N/a;N/a;N/a;N/a;N/a;N/a;Lactato de etilo;118.13;-25.0;154;102.274;13.208;2.4 ;472.8 ;159.6 ;N/a;Óxido de molibdeno (MoO3);Hidróxido de tetrapropilamoni;Fluoruro de N,N,N-trietil-etanaminio, hidratado (1:1:2);Etanol;N/a;N/a;100 ;Ácido;Condensación;Catálisis tándem para la producción de lactatos de alquilo a partir de azúcares;26776-70-5;97-64-3;31-614-CAS-26823657;;
+Maltosa;342.30;102;774.535;1.54 ;12.395;N/a;192 ;N/a;Lactato de etilo;118.13;-25.0;154;102.274;13.208;2.4 ;472.8 ;159.6 ;N/a;Óxido de wolframio (WO3);N/a;N/a;Etanol;100;N/a;190;Ácido;Eliminación;Descarbonilación de aldehídos y haluros de acilo;69-79-4;97-64-3;31-232-CAS-19717158;;
+Fructosa;"
+180.16";105.00;"
+440.1";"
+1.6";"
+12.1";N/a;254;N/a;Lactato de etilo;118.13;-25.0;154;102.274;13.208;2.4 ;472.8 ;159.6 ;N/a;Óxido de wolframio (WO3);Calcio;N/a;Etanol;N/a;N/a;N/a;Ácido;Eliminación;Ruptura oxidativa de glicoles y compuestos relacionados;57-48-7;97-64-3;31-484-CAS-19717160;;
+Anhídrido acético;102.09;-73;139.5;1.082;N/a;2.8;262 ;N/a;1401989-23-8;298.08;N/a;346.834;1.744;N/a;N/a;8;N/a;N/a;4-(Dimetilamino)piridina;N/a;N/a;Diclorometano;N/a;N/a;N/a;Neutro;Sustitución nucleofílica;Alcólisis de anhídridos;108-24-7;1401989-23-8;31-355-CAS-3054548;;
+Anhídrido acético;102.09;-73;139.5;1.082;N/a;2.8;262 ;N/a;2,6,6-trimetilbiciclo[3.1.1]heptano-2,3-diol, 2,3-diacetato;"
+254.32";N/a;290.983;1.100;N/a;N/a;0;N/a;Óxido de ?-pineno;Hidrocalcita;N/a;N/a;N/a;1440;N/a;N/a;Neutro;Sustitución nucleofílica;Apertura de anillo de epóxidos/aziridinas con nucleófilos de oxígeno/azufre;108-24-7;1316706-70-3;31-014-CAS-12749945;;
+Anhídrido acético;102.09;-73;139.5;1.082;N/a;2.8;262 ;N/a;Éster metílico del ácido ?-neuramínico, N-[[4-[[(1,1-dimetiletil)dimetilsilil]oxi]butoxi]carbonil]-2-S-fenil-2-tio-, 4,7,8,9-tetraacetato (ACI);"
+771.95";N/a;731.289;1.224;"
+10.085";N/a;0;N/a;Piridina;4-(Dimetilamino)piridina;N/a;N/a;N/a;660;rt;0;Básico;Sustitución nucleofílica;Acetilación o esterificación catalizada por DMAP en piridina.;108-24-7;2357131-38-3;31-355-CAS-20335169;;
+Anhídrido acético;102.09;-73;139.5;1.082;N/a;2.8;262 ;N/a;Acetamida, N-[(6,8-dihidro-10-metil-8-oxo-5H-indolizino[2,1-b]indol-9-il)metil]- (9CI, ACI);"
+307.35";>300 ;704.093;1.375;15.444;N/a;N/a;N/a;Hidrógeno;Níquel;N/a;N/a;Ácido acético;N/a;N/a;N/a;Ácido; Oxidación-reducción;Hidrogenación catalítica de nitrilos a amidas;108-24-7;328088-63-7;31-520-CAS-15318839;;
+Anhídrido acético;102.09;-73;139.5;1.082;N/a;2.8;262 ;N/a;1-acetato de 5,7,11-tris[[(1,1-dimetiletil)dimetilsilil]oxi]-6,8-dimetil-2-undecin-1-ol, (5S,6R,7S,8R)- (ACI);"
+629.15";N/a;560.421;0.914;N/a;N/a;0;N/a;Trietilamina;4-(Dimetilamino)piridina;N/a;N/a;Diclorometano;30;N/a;0;Básico;Sustitución nucleofílica;Acetilación de alcoholes catalizada por DMAP;108-24-7;1634667-71-2;31-355-CAS-3992377;;
+Anhídrido acético;102.09;-73;139.5;1.082;N/a;2.8;262 ;N/a;Éster (2aR,4S,4aS,6R,9S,11S,12S,12aR,12bS)-6,12b-bis(acetiloxi)-2a,3,4,4a,5,6,9,10,11,12,12a,12b-dodecahidro-4,9,11-trihidroxi-4a,8,13,13-tetrametil-5-oxo-7,11-metano-1H-ciclodeca[3,4]benz[1,2-b]oxet-12-ilo del ácido 3-metoxibenzoico (ACI);"
+616.65";N/a;"
+740.402";1.387;12.609;N/a;0;N/a;N/a;Tricloruro de cerio;N/a;N/a;Tetrahidrofurano;N/a;rt;N/a;Ácido;Sustitución nucleofílica;Acetilación regioselectiva catalizada por tricloruro de cerio;108-24-7;1134618-90-8;31-355-CAS-14700446;;
+Anhídrido acético;102.09;-73;139.5;1.082;N/a;2.8;262 ;N/a;Fenol, 2-(2-piridinil)-4-(9H-pirido[2,3-b]indol-9-il)-, 1-acetato (ACI);379.41;N/a;"
+540.312";"
+1.268";4.289;N/a;0;N/a;9H-pirido[2,3-b]indol, 9-[3-(2-piridinil)fenil]- (ACI);Diacetato de yodobenceno;Diacetato de paladio;N/a;Tolueno;90;N/a;110 ;Apolar; Sustitución radicalaria;Arilación o acetoxilación C-H regioselectiva catalizada por paladio;108-24-7;2172973-00-9;31-614-CAS-30002628;;
+Anhídrido acético;102.09;-73;139.5;1.082;N/a;2.8;262 ;N/a;2083624-09-1;"
+903.07";N/a;"
+936.516";1.277;"
+3.103";N/a;0;N/a;Trietilamina;4-(Dimetilamino)piridina;N/a;N/a;Diclorometano;60;rt;N/a;Básico;Sustitución nucleofílica;Acetilación de alcoholes catalizada por DMAP;108-24-7;2083624-09-1;31-355-CAS-17751822;;
+Anhídrido acético;102.09;-73;139.5;1.082;N/a;2.8;262 ;N/a;2-C-d-?-D-glucopiranósido de metilo, 4,6-O-(1-metiletiliden)-, 2,3-diacetato (ACI);"
+319.33";N/a;376.963;1.241;N/a;N/a;"
+10";N/a;Tripropilamina;Rutenio;N/a;N/a;Agua-d2;1440;rt;80;Básico;Sustitución nucleofílica;Marcaje deuterado regioselectivo y acetilación de azúcares;108-24-7;1428987-63-6;31-116-CAS-13903854;;
+Anhídrido acético;102.09;-73;139.5;1.082;N/a;2.8;262 ;N/a;1,4-Tetradecanodiol, 6-[[(3,4-dimetoxifenil)metoxi]metoxi]-12,14-bis[[(1,1-dimetiletil)difenilsilil]oxi]-10-metoxi-3,5,9,13-tetrametil-, 1,4-diacetato, (3R,4R,5S,6R,9S,10S,12S,13R)- (ACI);"
+1105.59";N/a;912.752;1.095;N/a;N/a;0;N/a;N/a;4-(Dimetilamino)piridina;N/a;N/a;Piridina;N/a;rt;N/a;Básico;Sustitución nucleofílica;Acetilación de alcoholes catalizada por DMAP;108-24-7;740836-29-7;31-614-CAS-28756757;;
+Cloruro de acetilo;78.50;"
+-112";52;"
+1.1051";"
+19.3";N/a;85;N/a;Anhídrido acético;102.09;-73;139.5;1.082;N/a;2.8;262 ;N/a;N/a;Sesquióxido de neodimio;Carburo de wolframio (WC);N/a;N/a;300;rt;65;Heterogéneo;Sustitución nucleofílica;Síntesis catalítica heterogénea de anhídrido acético;75-36-5;108-24-7;31-354-CAS-23601159;;
+Acetilacetona;"
+100.12";-23;140 ;0.9721;"
+8.79";2.78;68;N/a;Anhídrido acético;102.09;-73;139.5;1.082;N/a;2.8;262 ;N/a;N/a;Óxido de magnesio;N/a;N/a;N/a;600;rt;131;Básico; Condensación;Síntesis de acetilacetona catalizada por óxido de magnesio;123-54-6;108-24-7;31-614-CAS-26034742;;
+1,3-Isobenzofurandiona, 5,5?-[2,2,2-trifluoro-1-(trifluorometil)etiliden]bis-, polímero con 2-(4-aminofenil)-1H-benzimidazol-6-amina y 9,9-bis(4-amino-3,5-dimetilfenil)-9H-fluoren-2,7-diol (ACI);"
+1105.05";N/a;N/a;N/a;N/a;N/a;N/a;N/a;Anhídrido acético;102.09;-73;139.5;1.082;N/a;2.8;262 ;N/a;N/a;Trietilamina;N/a;N/a;Dimetilformamida;1440;rt;N/a;Básico; Sustitución nucleofílica;Modificación post-síntesis y acetilación de poliimidas que contienen hidroxilo;3067876-22-3;108-24-7;31-614-CAS-43771683;;
+Ácido acético;"
+60.05";16.6;"
+117.9";"
+1.0446";4.8;17.4;198;2100;Anhídrido acético;102.09;-73;139.5;1.082;N/a;2.8;262 ;N/a;N/a;Dióxido de circonio (sulfatado);Ácido sulfúrico;Polietilenglicol;N/a;120;rt;40;Apolar; Sustitución nucleofílica;Síntesis de anhídridos simétricos catalizada por zirconia sulfatada;64-19-7;108-24-7;31-360-CAS-2515376;;
+Monóxido de carbono;28.01;-205;-191.5;1,25;N/a;0.122;1000 ;N/a;Anhídrido acético;102.09;-73;139.5;1.082;N/a;2.8;262 ;N/a;Acetato de metilo;Yoduro de metilo;Acetato de litio;Tricloruro de rodio;N/a;N/a;N/a;N/a;Apolar;Adición nucleofílica;Carbonilación de acetato de metilo catalizada por rodio/yoduro de metilo;630-08-0;108-24-7;31-614-CAS-27620331;;
+Acetaldehído;44.05;-123.5;21;0.788 ;16.700;2.75;71;N/a;Anhídrido acético;102.09;-73;139.5;1.082;N/a;2.8;262 ;N/a;Trietilamina;Ácido tricloroisocianúrico;N/a;N/a;Diclorometano;1;rt;0;Neutro; Sustitución nucleofílica;Acoplamiento oxidativo deshidrogenativo de aldehídos y ácidos carboxílicos;75-07-0;108-24-7;31-614-CAS-26721944;;
+Anhídrido maleico;"
+98.06";"
+52.8";202.0;1.48;1.83;N/a;78;N/a;Anhídrido acético;102.09;-73;139.5;1.082;N/a;2.8;262 ;N/a;N/a;Hidracina;Diacetato de yodobenceno;N/a;N/a;N/a;N/a;N/a;Apolar;Oxidación-reducción;Oxidación mediada por yodobenzeno diacetato e hidrazina;108-31-6;108-24-7;31-614-CAS-27607289;;
+Cloruro de oleoílo;"	300.91";N/a;"
+150";0.918;N/a;N/a;0;N/a;Anhídrido acético;102.09;-73;139.5;1.082;N/a;2.8;262 ;N/a;N/a;1-Metilimidazol;N/a;N/a;Acetona;180;rt;N/a;Básico;Sustitución electrofílica;Acetilación y copolimerización de taninos con aceites vegetales;112-77-6;108-24-7;31-614-CAS-27439327;;
+Acetato de metilo;"
+74.08";-98;"
+56.8";0.9342;"
+4.8";"
+6.88";87;7030;Anhídrido acético;102.09;-73;139.5;1.082;N/a;2.8;262 ;N/a;Yoduro de metilo;Rodio; dicarbonil(2-piridinacarboxilato-?N1,?O2)-, (SP-4-3);compuesto con tetrafenilborato(1-) de litio (1:1) (9CI); Ácido acético;90;N/a;185;Ácido;Adición nucleofílica;Carbonilación de acetato de metilo catalizada por complejo de rodio;79-20-9;108-24-7;31-614-CAS-25773650;;
+Yoduro de metilo;141.94;"
+-66.5";42.5;"
+2.28";N/a;1.64;10;54400;Anhídrido acético;102.09;-73;139.5;1.082;N/a;2.8;262 ;N/a;N-acetilmorfolina;Yoduro de rodio (RhI3);N/a;N/a;Ácido acético;360;N/a;155;Ácido;Adición nucleofílica;Carbonilación de acetato de metilo promovida por complejos de rodio y yoduros;74-88-4;108-24-7;31-614-CAS-27372026;;
+Anhídrido ftalico;148.12;130.8;295;1,53;N/a;N/a;N/a;1,57 × 10?³;1,2- Ácido ciclohexanedicarboxílico , sal cálcica (1: 1 );212.26;N/a;N/a;N/a;N/a;N/a;N/a;N/a;"
+hidróxido de calcio";estearato de zinc;N/a;N/a;"
+Etanol";"
+180";N/a;55;Básico;Sustitución nucleofílica;Síntesis de ftalato de calcio;85-44-9;924011-10-9;31-614-CAS-40714489;;
+Anhídrido ftalico;148.12;130.8;295;1,53;N/a;N/a;N/a;1,57 × 10?³;Citidina, 2?- desoxi- 3?-O- [( 1,1 - dimetil ) dimetilsililo ] -norte- [( 4- metoxifenil ) difenilmetil ] - , 5?- (arboxilato de hidrógeno 1,2 - bencenódico ) (ACI);"
+761,94";N/a;828,265;1,206;3,351;N/a;N/a;N/a;"
+lamina de trietilo";4- (Dimetil lamino) piridina;N/a;N/a;acetato de etilo;240;N/a;50;Básico;Sustitución nucleofílica;Modificación con anhídrido ftálico (catalizada por DMAP);85-44-9;1010444-70-8;31-355-CAS-14381135;;
+Anhídrido ftalico;148.12;130.8;295;1,53;N/a;N/a;N/a;1,57 × 10?³;( C 18 H 16 O 5 ) n;N/a;N/a;N/a;N/a;N/a;N/a;N/a;N/a;N/a;Triethy Iborane , cloruro de bis (trifenilfosfina ) iminio; cloruro de bis (trifenilfosfina ) iminio;N/a;Tolueno;480;N/a;100;Apolar;Adición nucleofílica;Copolimerización por apertura de anillo alternante;85-44-9;2648942-32-7;31-614-CAS-27849260;;
+Anhídrido ftalico;148.12;130.8;295;1,53;N/a;N/a;N/a;1,57 × 10?³;Propanedinitrilo , 2- [[ 4- (1, 3- dihidro- 1, 3- dioxo- 2H- isoindol- 2- il) fenil] [[ 4- (1, 3- dihidro- 1, 3- dioxo- 2H- isoindol- 2- il) fenil] amino] metileno] - (ACI);"
+535.51";N/a;785,454;1,507;0,153;N/a;N/a;N/a;N/a;Isoqui noline;N/a;N/a;metro- Cresol;N/a;N/a;190;Básico;Sustitución nucleofílica;Síntesis de poliimidas en disolución;85-44-9;439385-22-5;31-366-CAS-16550191;;
+Anhídrido ftalico;148.12;130.8;295;1,53;N/a;N/a;N/a;1,57 × 10?³;1,2 - ácido ciclohexanedicarboxílico, 1,2 - bis ( 7 - metiloctil ) éster (ACI);"
+424,66";N/a;"
+489,623";0,951;N/a;N/a;N/a;N/a;"	
+Hidrógeno";"
+Rodio";isopropóxido de titanio;N/a;N/a;90;N/a;280;Neutro;Sustitución nucleofílica;Síntesis de ftalatos de dialquilo por esterificación directa;85-44-9;318292-43-2;31-243-CAS-17900623;;
+Anhídrido ftalico;148.12;130.8;295;1,53;N/a;N/a;N/a;1,57 × 10?³;Ácido pentanodioico , 2- (1, 3- dihidro- 1, 3- dioxo- 2H- isoindol- 2- il) - , 5- éster metílico, (2S) - (ACI);"
+291,26";138;504,676;1,44;3,44;N/a;N/a;N/a;N/a;"
+lamina de trietilo";N/a;N/a;Tolueno;N/a;N/a;N/a;Apolar; Sustitución nucleofílica;Síntesis de derivados de ácido ftalámico;85-44-9;138036-14-3;31-614-CAS-39266367;;
+Anhídrido ftalico;148.12;130.8;295;1,53;N/a;N/a;N/a;1,57 × 10?³;Ácido benzoico, 2 -[[( 4,4 - dietoxibutil ) amino] carbonilo] -(9CI, ACI);"
+309.36";N/a;503,785;1,142;3,507;N/a;N/a;N/a;lamina de trietilo;4- (Dimetil lamino) piridina;N/a;N/a;rofurano tetrahidro;10;N/a;N/a;Básico; Sustitución nucleofílica;Síntesis de ftalamidas catalizada por DMAP;85-44-9;138076-66-1;31-366-CAS-13448443;;
+Anhídrido ftalico;148.12;130.8;295;1,53;N/a;N/a;N/a;1,57 × 10?³;9, 10- Antrace nediona, 1- cloro- 4- hidroxi- (9CI, ACI);258,66;186;468,257;1,526;6,677;N/a;N/a;N/a;N/a;"
+ácido clorhídrico";N/a;N/a;Agua;N/a;N/a;N/a;Ácido;Sustitución electrofílica;Síntesis de antraquinonas por acilación y ciclación de Friedel-Crafts;85-44-9;82-42-8;31-091-CAS-13513031;;
+Anhídrido ftalico;148.12;130.8;295;1,53;N/a;N/a;N/a;1,57 × 10?³;1,2 - ácido bencenocarboxílico , éster 1-hexílico (ACI);250,29;N/a;388,798;1,125;3,39;N/a;N/a;N/a;Piridina;"
+4- (Dimetil lamino) piridina";N/a;N/a;Tolueno;120;N/a;100;Básico;Sustitución nucleofílica;Síntesis de monoésteres ftálicos con bases orgánicas;85-44-9;24539-57-9;31-355-CAS-14208218;;
+Anhídrido ftalico;148.12;130.8;295;1,53;N/a;N/a;N/a;1,57 × 10?³;1, 2- Ácido carboxílico bencenédico , 1- [( 1R) - 2- (3, 4- diclorofenil ) - 1- metil etil] éster (ACI);"
+353,20";N/a;517,808;1,37;3,347;N/a;N/a;N/a;"
+lamina de trietilo";4- (Dimetil lamino) piridina;N/a;N/a;Diclorometano;60;N/a;N/a;Básico;Sustitución nucleofílica;Síntesis de monoésteres ftálicos;85-44-9;875784-11-5;31-355-CAS-733124;;
+Ácido 1,2 - bencenodicarboxílico (9CI, ACI);166.13;191;378,274;1,593;"
+2.950";N/a;N/a;"
+2,14 x 10?? ";Anhídrido ftalico;148.12;130.8;295;1,53;N/a;N/a;N/a;1,57 × 10?³;"
+Oxígeno";pentóxido de niobio;Óxido de vanadio;N/a;N/a;N/a;N/a;"
+362";Apolar; Oxidación-reducción;Oxidación de o-xileno;91-20-3;85-44-9;31-614-CAS-29645964;;
+1,2- Benceno carboxaldehído ( 9CI, ACI);134.13;56,;121;1,189;13.23;N/a;N/a;8,80 x 10?³;Anhídrido ftalico;148.12;130.8;295;1,53;N/a;N/a;N/a;1,57 × 10?³;Peróxido de hidrógeno;1- Butanamina ,norte,norte,norte- tributil- , (aquaferrate ) tetracosa- ?- oxound ecaoxo;N/a;N/a;acetona;1440;N/a;80;Neutro;Oxidación-reducción;Oxidación oxidativa de alquenilbencenos catalizada por polioxometalatos;643-79-8;85-44-9;31-614-CAS-30571396;;
+Naftaleno (8CI, 9CI, ACI);128.17;80,2;217,9;1,162;"	12.3";N/a;4,11 x 10??;"
+39,9";Anhídrido ftalico;148.12;130.8;295;1,53;N/a;N/a;N/a;1,57 × 10?³;Oxígeno;Trióxido de antimonio;pentóxido de niobio;Potasio;N/a;N/a;N/a;N/a;Apolar;Oxidación-reducción;Oxidación del naftaleno a anhídrido ftálico;91-20-3;85-44-9;31-614-CAS-43060246;;
+Benceno, 1,2 - dimetil- (9CI, ACI);106.17;-25;144,4;0,8801;N/a;0,64;0,19;908 ;Anhídrido ftalico;148.12;130.8;295;1,53;N/a;N/a;N/a;1,57 × 10?³;N/a;Óxido de vanadio;Talco ;N/a;N/a;N/a;N/a;400;Apolar;Oxidación-reducción;Oxidación heterogénea de o-xileno a anhídrido ftálico;95-47-6;85-44-9;31-614-CAS-41701687;;
+1H- Indene- 1, 2, 3- triona (9CI, ACI);160.13;254;338;1,482;N/a;N/a;N/a;N/a;Anhídrido ftalico;148.12;130.8;295;1,53;N/a;N/a;N/a;1,57 × 10?³;Oxígeno;Óxido de cobre;N/a;N/a;"
+dimetilsulfóxido";N/a;N/a;110;Apolar ;Oxidación-reducción;Síntesis oxidativa de anhídrido ftálico catalizada por CU20;938-24-9;85-44-9;31-614-CAS-28001453;;
+4, 7- Epoxiisobenzofuran- 1, 3- diona, 3a, 4, 7, 7a- tetrahidro- (9CI, ACI );"
+166.13";124;372,008;1,541;N/a;N/a;N/a;9,91 x 10?? ;Anhídrido ftalico;148.12;130.8;295;1,53;N/a;N/a;N/a;1,57 × 10?³;Sulfolano;Amberlyst 36;N/a;N/a;"
+anhídrido acético";120;N/a;25;Ácido;Condensación;Conversión de furanos a anhídrido ftálico;05/09/5426;85-44-9;31-614-CAS-35731679;;
+1H- Indeno- 1, 2 (3H) - diona (9CI, ACI);146.14;104;"
+62";1,31;N/a;N/a;N/a;5,60 x 10?³ ;Anhídrido ftalico;148.12;130.8;295;1,53;N/a;N/a;N/a;1,57 × 10?³;"
+Oxígeno";Óxido de cobre;N/a;N/a;dimetilsulfóxido;N/a;N/a;110;Apolar;Oxidación-reducción;Oxidación catalizada por óxido de cobre;16214-27-0;85-44-9;31-484-CAS-5346472;;
+Ácido benzoico, 2- ciano- (9CI, ACI);147.13;"
+227";341;1,325;3,142;N/a;N/a;3,01 x 10?? ;Anhídrido ftalico;148.12;130.8;295;1,53;N/a;N/a;N/a;1,57 × 10?³;cianuro de trimetilsililo;Óxido de cobre ;N/a;N/a;"	
+Agua";480;N/a;100;Neutro;Condensación;Aminólisis en cascada para síntesis de ftalimidas;3839-22-3;85-44-9;31-305-CAS-23368059;;
+1H- Inden- 1- uno, 2, 3- dihidro- (9CI, ACI);132.16;42;243;0,964;10.2;N/a;N/a;"	0,0311";Anhídrido ftalico;148.12;130.8;295;1,53;N/a;N/a;N/a;1,57 × 10?³;Oxígeno;Óxido de hierro ;N/a;N/a;Tolueno;1440;N/a;140;Apolar;Oxidación-reducción;Oxidación catalizada por óxido de hierro;83-33-0;85-44-9;31-491-CAS-17919543;;
+Ácido 1,2 - bencenodicarboxílico (9CI, ACI);166.13;"	191";378;1,593;2.950;N/a;N/a;"
+2,14 x 10?? ";Anhídrido ftalico;148.12;130.8;295;1,53;N/a;N/a;N/a;1,57 × 10?³;"
+Hidrógeno";Paladio;Rutenio;N/a;Agua;180;N/a;85;Ácido;Oxidación-reducción;Deshidratación;88-99-3;85-44-9;31-360-CAS-1756984;;
+Anhídrido maleico;98.06;52.8;202;1,48;1,83;N/a;N/a;27;Poli [oxi (etil- 1, 2- etanodiil) oxi [( 2mi) - 1, 4- dioxo- 2- buteno- 1, 4- diilo ]] (ACI);N/a;N/a;N/a;N/a;N/a;N/a;N/a;N/a;N/a;Lamina dietética;N/a;N/a;"
+Hexano";840;N/a;45;Apolar; Adición nucleofílica;copolimerización por apertura de anillo alternante (ROCOP) con epóxidos;108-31-6;1313251-46-5;31-614-CAS-26668637;;
+Anhídrido maleico;98.06;52.8;202;1,48;1,83;N/a;N/a;27;1- Ácido naftalenocarboxílico , 5- [2- (1, 3, 3a, 4, 7, 7a- hexahidro- 1, 3- dioxo- 4, 7- epoxiisobenzofuran- 5- il) etil ] decahidro- 1, 4a- dimetil- 6- metileno- , ( 1S, 4aR, 5S, 8aR) - (9CI, ACI);"
+414,49";N/a;593,629;1.290;4,676;N/a;N/a;N/a;N/a;cloruro de zinc;N/a;N/a;rofurano tetrahidro;1.200;N/a;N/a;Ácido;Adición electrofílica;Reacción de Diels-Alder con anhídrido maleico;108-31-6;562076-05-5;31-289-CAS-6609400;;
+Anhídrido maleico;98.06;52.8;202;1,48;1,83;N/a;N/a;27;Anhídrido succínico, (etilen editio) di- (7CI);"
+290.32";N/a;619,823;1,557;N/a;N/a;N/a;N/a;N/a;"
+Ácido sulfúrico";N/a;N/a;"
+Agua";360;N/a;100;Ácido;dición nucleofílica;Adición tipo Michael;108-31-6;90844-25-0;31-260-CAS-19799021;;
+Anhídrido maleico;98.06;52.8;202;1,48;1,83;N/a;N/a;27;[5, 6] Fullereno- C 60 -Yo h(9CI, ACI);720,64;3727;N/a;1,63;N/a;N/a;N/a;N/a;anhídrido maleico;triflato de cobre (II );N/a;N/a;1,2 - diclorobenceno;480;N/a;N/a;Apolar; Eliminación;Reacción de retro-Diels-Alder ;108-31-6;99685-96-8;31-478-CAS-13251127;;
+Anhídrido maleico;98.06;52.8;202;1,48;1,83;N/a;N/a;27;Poli [oxi [( 2Z) - 1, 4- dioxo- 2- buteno- 1, 4- diil] oxi- 1, 4- butanodiil] (9CI, ACI);N/a;N/a;N/a;N/a;N/a;N/a;N/a;N/a;N/a;ácido trifluorometanosulfónico;N/a;N/a;N/a;180;N/a;N/a;Ácido;Sustitución nucleofílica;Síntesis de poliésteres por apertura de anillo catalizada por ácido;108-31-6;24938-77-0;31-614-CAS-37153610;;
+Anhídrido maleico;98.06;52.8;202;1,48;1,83;N/a;N/a;27;Ácido 2- butenodioico (2Z) - , 1- (3, 6, 9, 12, 15- pentaoxah eptacos- 1 -il) éster (ACI);504,65;N/a;"
+598,535";1,049;N/a;N/a;N/a;N/a;N/a;pag- Ácido toluenosulfónico;N/a;N/a;N/a;150;N/a;100;Ácido;Sustitución nucleofílica;Síntesis de maleatos de dialquilo por esterificación directa catalizada por ácido;108-31-6;1044599-15-6;31-355-CAS-7632918;;
+Anhídrido maleico;98.06;52.8;202;1,48;1,83;N/a;N/a;27;Poli [oxi [[[ 2- (2- metoxietoxi ) etoxi] metil] -1,2 - etanodiil ] oxi [( 2mi) - 1, 4- dioxo- 2- buteno- 1, 4- diilo ]] (ACI);N/a;N/a;N/a;N/a;N/a;N/a;N/a;N/a;N/a;Lamina dietética;N/a;N/a;Hexano;240;N/a;110;Apolar;Adición nucleofílica;Copolimerización por apertura de anillo alternante con epóxidos;108-31-6;1313253-76-7;31-614-CAS-25976417;;
+Anhídrido maleico;98.06;52.8;202;1,48;1,83;N/a;N/a;27;5, 8, 14, 17- Ácido tetraoxah eneicosa- 2, 19- dienedioico, 10, 10- dimetil- 12- metileno- 6, 16- bis [[( 2- metil- 1- oxo- 2- propen- 1- il) oxi] metil] - 4, 9, 13, 18- tetraoxo- , (2Z, 19Z) - (ACI);"
+652,60";N/a;678,650 ;1,288;2,338;N/a;N/a;N/a;N/a;4- (Dimetil lamino) piridina;N/a;N/a;2, 6- Di-terciario- butil- 4- metil fenol;300;N/a;95;Básico;Sustitución nucleofílica;Funcionalización de polímeros catalizada por DMAP;108-31-6;1422523-25-8;31-355-CAS-4008353;;
+Anhídrido maleico;98.06;52.8;202;1,48;1,83;N/a;N/a;27;Plomo, [? 4 - [( 2Z) - 2- buteno dioato (2- ) - ?O1 : ?O1? : ?O4 : ?O4? ]] - ?- oxodiox otetra- , hidrato (2: 1) (9CI);"
+1999.86";N/a;N/a;N/a;N/a;N/a;N/a;N/a;Óxido de plomo (PbO );Ácido acético;N/a;N/a;"
+Agua";300;N/a;50;Ácido;Sustitución nucleofílica;Síntesis de maleatos metálicos;108-31-6;868382-37-0;31-117-CAS-3583323;;
+Anhídrido maleico;98.06;52.8;202;1,48;1,83;N/a;N/a;27;1, 4- butanodiol (8CI, 9CI, ACI);90.12;20,1;230;1,0171;14.73;2,72;1,1;0,799;"
+Hidrógeno";"
+Rutenio";N/a;N/a;N/a;180;N/a;100;Neutro;Oxidación-reducción;Hidrogenación catalítica de anhídrido maleico;108-31-6;110-63-4;31-614-CAS-34266141;;
+Ácido 2- butenodioico (2CON) - (9CI, ACI);116.07;131 ;138 ;1,59;5.0;N/a;78;"	1,7 x 10?³";Anhídrido maleico;98.06;52.8;202;1,48;1,83;N/a;N/a;27;De-terciario- dicarbonato de butilo;Cloruro de magnesio;N/a;N/a;"
+rofurano tetrahidro";720;N/a;40;Apolar; Sustitución nucleofílica;Síntesis de anhídridos cíclicos a partir de ácidos dicarboxílicos;110-16-7;108-31-6;31-360-CAS-9590064;;
+Benceno (8CI, 9CI, ACI);78.11;5,5;80,1;0,8787 ;43;2,46;"	12700 ";12700;Anhídrido maleico;98.06;52.8;202;1,48;1,83;N/a;N/a;27;"
+Ácido oxálico";Óxido de vanadio y amonio ( ( NH? ) V?O? );N/a;N/a;Agua;10;N/a;250;Apolar; Oxidación-reducción;Oxidación catalítica para preparación de anhídrido maleico;71-43-2;108-31-6;31-614-CAS-42863930;;
+Butano (8CI, 9CI, ACI);58.12;-138,2;-0,5;0,5788;N/a;0,05;N/a;2,43 x 10?;Anhídrido maleico;98.06;52.8;202;1,48;1,83;N/a;N/a;27;Oxígeno;ácido fosfórico;N/a;N/a;N/a;N/a;N/a;430;Apolar; Oxidación-reducción;Preparación de anhídrido maleico mediante oxidación de n-butano;106-97-8;108-31-6;31-614-CAS-36894533;;
+2 (5H) - Furanona, 5- hidroxi- (8CI, 9CI, ACI);100.07;52;360,956;1,504;10,013;N/a;N/a;N/a;Anhídrido maleico;98.06;52.8;202;1,48;1,83;N/a;N/a;27;N/a;Tempo;nitrato férrico;N/a;acetona itril;480;rt;N/a;Apolar; Oxidación-reducción;Oxidación de furfural a anhídrido maleico;14032-66-7;108-31-6;31-614-CAS-45154975;;
+2- Furancarbo xaldehído (9CI, ACI);"
+96.08";-38,7;"
+18,5";"	1,1563";N/a;36.0 ;90;300;Anhídrido maleico;98.06;52.8;202;1,48;1,83;N/a;N/a;27;"
+Oxígeno";Cobre;Nitruro de carbono;N/a;acetona itril;720;N/a;N/a;Apolar; Oxidación-reducción;Síntesis de anhídrido maleico mediante oxidación de furanos;98-01-1;108-31-6;31-614-CAS-39424931;;
+2- Furancarboxaldehído , 5- ( hidroximetil) - (9CI, ACI);126.11;31,5;291;1,29;12.8;N/a;N/a;N/a;Anhídrido maleico;98.06;52.8;202;1,48;1,83;N/a;N/a;27;"
+Oxígeno";Cobre;Nitruro de carbono;N/a;acetona itril;720;N/a;N/a;Apolar; Oxidación-reducción;Oxidación de 5-(hidroximetil)furfural a anhídrido maleico;67-47-0;108-31-6;31-614-CAS-39424929;;
+Ácido 2- butenodioico (9CI, ACI);"
+116.07";285,5;355,482;1,499;4.25;N/a;N/a;N/a;Anhídrido maleico;98.06;52.8;202;1,48;1,83;N/a;N/a;27;N/a;dióxido de circonio;Ácido sulfúrico;Polietilenglicol;N/a;60;N/a;40;Ácido; Condensación;Deshidratación catalizada por zirconia sulfatada para síntesis de anhídridos;6915-18-0;108-31-6;31-360-CAS-354644;;
+2- Furancarboxaldehído , 5- [( formiloxi) metil] - (9CI, ACI);154.12;N/a;282,315;1,28;N/a;N/a;N/a;3,38 x 10?³;Anhídrido maleico;98.06;52.8;202;1,48;1,83;N/a;N/a;27;"
+Óxido de manganeso";persulfato de potasio;N/a;N/a;acetona itril;540;N/a;90;Apolar;Oxidación-reducción;Preparación de anhídrido maleico mediante oxidación de 5-formiloximetil furfural;102390-86-3;108-31-6;31-614-CAS-25307752;;
+2, 5- Furand ion, dihidro- (9CI, ACI);"	100.07";"
+119,6";261;1,503;"
+3.5";N/a;N/a;N/a;Anhídrido maleico;98.06;52.8;202;1,48;1,83;N/a;N/a;27;triflato de trimetilsililo;N/a;N/a;N/a;éter dietílico;N/a;N/a;N/a;Apolar;Sustitución nucleofílica;Conversión sencilla de anhídridos a anhídridos maleicos;108-30-5;108-31-6;31-479-CAS-11799594;;
+2, 5- furandi carboxildehído (6CI, 7CI, 8CI, 9CI, ACI);"
+124.09";108-110;"
+>200";1,299;N/a;N/a;N/a;4,70 x 10?³ ;Anhídrido maleico;98.06;52.8;202;1,48;1,83;N/a;N/a;27;"
+persulfato de potasio";Óxido de manganeso;nitrato cúprico;N/a;acetona itril;180;N/a;90;Apolar;Oxidación-reducción;Oxidación de derivados de furfural a anhídrido maleico;823-82-5;108-31-6;31-614-CAS-30931300;;
+Anhidrido etanoico;102.09;-73.0;139,5;1,082;4.76;2,82;120;0.68;C 8 H 11 I O 4;298,08;N/a;346,834;1,744;N/a;N/a;N/a;N/a;N/a;4- (Dimetil lamino) piridina;N/a;N/a;Diclorometano;N/a;N/a;N/a;Ácido;Sustitución Nucleófila;Acetilación de alcoholes;108-24-7;1401989-23-8;31-355-CAS-3054548;;
+Anhidrido etanoico;102.09;-73.0;139,5;1,082;4.76;2,82;120;0.68;Biciclo [3.1.1] heptano - 2,3- diol, 2,6,6 - trimetil- , 2,3- diacetato (ACI);254,32;N/a;290,983;1,1;N/a;N/a;N/a;N/a;N/a;hidroc alcita;N/a;N/a;N/a;1440;N/a;129;Ácido;Sustitución Nucleófila;Apertura de epóxidos ;108-24-7;1316706-70-3;31-014-CAS-12749945;;
+Anhidrido etanoico;102.09;-73.0;139,5;1,082;4.76;2,82;120;0.68;1H- Ácido pirrol- 3,4 - diacético, 2 -[( acetiloxi) metil] -5 - [( fenilmetoxi ) carbonilo] - , éster 3,4 - dimetílico (ACI);417.41;N/a;"
+557,852";1,285;13.700;N/a;N/a;N/a;tetracetato de plomo;N/a;N/a;N/a;Ácido acético;240;rt;80;Acido;Sustitución nucleofílica;Acetilación de pirroles;108-24-7;73870-14-1;31-209-CAS-12858680;;
+Anhidrido etanoico;102.09;-73.0;139,5;1,082;4.76;2,82;120;0.68;1,6 - bis [2- [ ( acetiloxi) carbonil] -4,6 - diiodofenil ] hexanodioato;974.01;N/a;841,609;2,165;N/a;N/a;N/a;N/a;N/a;N/a;N/a;N/a;anhídrido acético;720;N/a;12;Ácido;Sustitución nucleofílica;Acetilación de grupos hidroxilo;108-24-7;959987-55-4;31-360-CAS-18132888;;
+Anhidrido etanoico;102.09;-73.0;139,5;1,082;4.76;2,82;120;0.68;Ácido ?- neuramínico,norte- [[ 4- [[( 1, 1- dimetiletil ) dimetilsilil ] oxi] butoxi] carbonilo] - 2-S- fenil- 2- tio- , éster metílico, 4, 7, 8, 9- tetraacetato (ACI);771,95;N/a;731,289;1,224;10,085;N/a;N/a;N/a;Piridina;4- (Dimetil lamino) piridina;N/a;N/a;N/a;660;N/a;0;Ácido;Sustitución nucleofílica;Acetilación de grupos hidroxilo;108-24-7;2357131-38-3;31-355-CAS-20335169;;
+Anhidrido etanoico;102.09;-73.0;139,5;1,082;4.76;2,82;120;0.68;1, 4- Fenantrenodiona , 3, 10- bis (acetiloxi) - 4b, 5, 6, 7, 8, 8a, 9, 10- octahidro- 4b, 8, 8- trimetil- 2- (1- metil etil) - , [4bS- (4b?, 8a?, 10? )] - (9CI);"	416.51";100;503.137;1.176;N/a;N/a;N/a;N/a;N/a;N/a;N/a;N/a;Piridina;N/a;N/a;N/a;Ácido;Sustitución nucleofílica;Acetilación de grupos hidroxilo;108-24-7;57932-77-1;31-355-CAS-10282303;;
+Anhidrido etanoico;102.09;-73.0;139,5;1,082;4.76;2,82;120;0.68;Fenol, 2, 2?, 2??, 2???- (1, 2- etenediilideno ) tetrakis- , tetraacetato (9CI);"	564,58";N/a;645,59;"	1,238";N/a;N/a;N/a;N/a;N/a;N/a;N/a;N/a;Piridina;20;rt;N/a;Ácido;Sustitución nucleofílica;Acetilación de grupos hidroxilo fenólicos;108-24-7;678966-99-9;31-355-CAS-5834949;;
+Anhidrido etanoico;102.09;-73.0;139,5;1,082;4.76;2,82;120;0.68;Acetamida,norte- [( 6, 8- dihidro- 10- metil- 8- oxo- 5H- indolizino [2, 1-b] indol- 9- il) metil] - (9CI, ACI);307.35;>300;704,093;1,375;15,444;N/a;N/a;N/a;Hidrógeno;Níquel;N/a;N/a;Ácido acético;N/a;N/a;N/a;Ácido;Oxidación-reducción;Reducción de nitrilos seguida de acetilación;108-24-7;328088-63-7;31-520-CAS-15318839;;
+Anhidrido etanoico;102.09;-73.0;139,5;1,082;4.76;2,82;120;0.68;Ácido benzoico, 4- metoxi- 3- [( 1mi, 3S, 4S, 5R, 6S) - 4, 5, 6- tris (acetiloxi) - 3- [3- (2, 2- dimetil- 1- oxopropoxi) propil] - 3- metil- 1- octen- 7- in- 1- il] - , éster metílico (ACI);602,67;N/a;648,406;1,156;N/a;N/a;N/a;N/a;ácido trifluoroacético;N/a;N/a;N/a;Agua;120;rt;0;Ácido;Sustitución nucleofílica;Acetilación de grupos hidroxilo;108-24-7;2408739-28-4;31-018-CAS-21588836;;
+Anhidrido etanoico;102.09;-73.0;139,5;1,082;4.76;2,82;120;0.68;Ácido benzoico, 3- metoxi- , (2aR, 4S, 4aS, 6R, 9S, 11S, 12S, 12aR, 12bS) - 6, 12b- bis (acetiloxi) - 2a, 3, 4, 4a, 5, 6, 9, 10, 11, 12, 12a, 12b- dodeca hidro- 4, 9, 11- trihidroxi- 4a , 8, 13, 13- tetrametil- 5- oxo- 7 , 11- metano- 1H- ciclodeca [3, 4] benz [1, 2-b] éster de oxe- 12- ilo (ACI);616,65;N/a;740,402;1,387;12,609;N/a;N/a;N/a;N/a;Triclorocerio;N/a;N/a;rofurano tetrahidro;rt;N/a;N/a;Ácido;Sustitución nucleofílica;Acetilación de grupos hidroxilo;108-24-7;1134618-90-8;31-355-CAS-14700446;;
+Ácido etaneperoxóico (9CI, ACI);76.05;"
+-0,2 ";105;"
+1,226";8,2;N/a;353;1900;Anhidrido etanoico;102.09;-73.0;139,5;1,082;4.76;2,82;120;0.68;N/a;Acetato de cúprico;N/a;N/a;Ácido acético;N/a;N/a;N/a;Acido; Oxidación-reducción;Síntesis de anhídrido acético por oxidación de acetaldehído;79-21-0;108-24-7;31-614-CAS-26163914;;
+ácido butanoico, 3-oxo-, éster etílico (9CI, ACI);"
+130.14";-45;"
+180,8";"
+1,0282";11;N/a;110;104;Anhidrido etanoico;102.09;-73.0;139,5;1,082;4.76;2,82;120;0.69;N/a;Óxido de magnesio;N/a;N/a;N/a;N/a;rt ;136;Básico;Condensación;Síntesis de acetilacetona con MgO de alta actividad;141-97-9;108-24-7;31-614-CAS-26034742;;
+Ácido acético (7CI, 8CI, 9CI, ACI);"
+60.05";16,6;117,9;1,0446;"
+4.8";"
+17,4 ";"
+1000 ";"
+2100 ";Anhidrido etanoico;102.09;-73.0;139,5;1,082;4.76;2,82;120;0.69;N/a;Dióxido de circonio (sulfatad);Ácido sulfúrico;Polietilenglicol;N/a;120;RT;40;Acido;Condensación;Síntesis de anhídridos carboxílicos simétricos mediante circonia sulfatada;64-19-7;108-24-7;31-360-CAS-2515376;;
+Monóxido de carbono (8CI, 9CI, ACI);28.01;"
+-205";-191,5;"
+1,25 x 10-3 ";N/a;"
+1,12 x 10³?";N/a;N/a;Anhidrido etanoico;102.09;-73.0;139,5;1,082;4.76;2,82;120;0.69;N/a;Yoduro de metilo;Acetato de litio;1,2,6-yoduro de trimetilpiridinio (también Tricloruro de rodio);N/a;N/a;N/a;N/a;Acido;Adición nucleofílica;Carbonilación catalizada por cloruro de rodio/yoduro de metilo del acetato a anhídrido acético.;630-08-0;108-24-7;31-614-CAS-27620331;;
+Acetaldehído (8CI, 9CI, ACI);44.05;"
+-123,5 ";"
+21 ";"
+0,788 ";16.700;"
+2,75 ";"
+1000 ";"
+1,20 x 10?";Anhidrido etanoico;102.09;-73.0;139,5;1,082;4.76;2,82;120;0.69;Trietilamina (Paso 3);Ácido tricloroisocianúrico (Paso 1);N/a;N/a;Diclorometano (Paso 1);N/a;rt;0;Básico;Oxidación-reducción;Anhídridos a partir de aldehídos o alcoholes mediante acoplamiento cruzado oxidativo;75-07-0;108-24-7;31-614-CAS-26721944;;
+Cloruro de acetilo (8CI, 9CI, ACI);"
+78.50";"
+-112 ";52;"
+1,1051 ";19,3;N/a;85;N/a;Anhidrido etanoico;102.09;-73.0;139,5;1,082;4.76;2,82;120;0.69;N/a;Sesquióxido de neodimio;Carburo de tungsteno (WC);N/a;N/a;300;rt ;65;Acido;Sustitución nucleofílica;Método sintético de anhídrido acético;75-36-5;108-24-7; 31-354-CAS-23601159;;
+Acetaldehído (8CI, 9CI, ACI);44.05;"
+-123,5 ";"
+21 ";"
+0,788 ";16.700;"
+2,75 ";"
+1000 ";"
+1,20 x 10?";Anhidrido etanoico;102.09;-73.0;139,5;1,082;4.76;2,82;120;0.69;Dióxido de circonio;Palladio;Oxígeno;N/a;N/a;N/a;N/a;120;Neutro;Oxidación-reducción;Oxidación de aldehídos catalizada por Pd;75-07-0;108-24-7;31-614-CAS-29274446;;
+"Metano, yodo- (8CI, 9CI, ACI)
+";"
+141.94";"
+-66,5 ";42,5;"
+2,28";N/a;"
+1,64 ";1,4;N/a;Anhidrido etanoico;102.09;-73.0;139,5;1,082;4.76;2,82;120;0.69;Carbonato potásico;Bromo[1,1'-tiobi[metano] cobre;N/a;N/a;Acetonitrilo;5; rt ;43;Básico;Sustitución radicalaria;Síntesis de anhídridos por carbonilación cu-catalizada;74-88-4;108-24-7; 31-614-CAS-36683963;;
+9-Octadecenoyl cloruro, (9Z)- (9CI, ACI);"
+300.91";N/a;150;0,918;N/a;N/a;0;N/a;Anhidrido etanoico;102.09;-73.0;139,5;1,082;4.76;2,82;120;0.69;N/a;1-Metilimidazol;N/a;N/a;Acetona (Paso 1), Cloroformo (Paso 2);180;reflujo;60;Básico;Adición nucleofílica;Acetilación catalizada por 1-metilimidazol;112-77-6;108-24-7; 31-614-CAS-27439327;;
+Ácido acético, éster metilo (6CI, 8CI, 9CI, ACI);"
+74.08";"
+-98";"
+56,8";"
+0,9342 ";"
+4.8";6,88;"
+319";"
+28800";Anhidrido etanoico;102.09;-73.0;139,5;1,082;4.76;2,82;120;0.69;Yoduro de metilo, Monóxido de carbono;Rodio, dicarbonilo(2-piridinacarboxilato-$\kappa N^1,\kappa O^2$)-, (SP-4-3)-, compd. con lith...;N/a;N/a;Ácido acético;900;N/a;185;Acido;Sustitución nucleofílica;Carbonilación bimetálica de metanol;79-20-9;108-24-7;31-614-CAS-25773650;;
+Acetato de octilo;172,26;-80;199;0,8718;N/a;1.84;180;29.1;2- Ácido propenoico, 3- (4- metoxifenil ) - , éster 2-etilhexílico (9CI, ACI);290,4;N/a;150;1;"	8.0";N/a;N/a;N/a;pirrolidina;tetracloruro de titanio;N/a;N/a;1,2 - dicloropropano;25;rt;25;Básico;Condensación;Reacción de Perkin;112-14-1;5466-77-3;31-331-CAS-17989989;;
+Acetato de octilo;172,26;-80;199;0,8718;N/a;1.84;180;29.1;Silano, trimetil [[ 1- (octiloxi) etenil] oxi] - (9CI, ACI);244,45;N/a;258,925;0,853;N/a;N/a;N/a;N/a;"Diisopropilamina?
+Butilo";N/a;N/a;N/a;"rofurano tetrahidro
+Hexano";10;60;-78;Básico;Sustitución nucleofílica;Síntesis de éteres de enol silílicos;112-14-1;135066-77-2;31-132-CAS-18154783;;
+Acetato de octilo;172,26;-80;199;0,8718;N/a;1.84;180;29.1;2- Ácido propenoico, 3- (4- metoxi fenil) - , éster 2- etilhexílico, (2mi) - (9CI, ACI);290,4;N/a;405,251;1;N/a;N/a;N/a;N/a;metóxido de sodio;N/a;N/a;N/a;N/a;30;60;25;Básico;Condensación;Condensación Claisen-Schmidt;112-14-1;83834-59-7;31-331-CAS-22225335;;
+Acetato de octilo;172,26;-80;199;0,8718;N/a;1.84;180;29.1;9- Ácido fenantrenoacético , 9,10 - dihidro- 9- hidroxi- 10- oxo- , éster octílico (9CI, ACI);380,48;N/a;543,032;1,149;11,326;N/a;N/a;N/a;Diisopropilamina;N/a;N/a;N/a;rofurano tetrahidro;8;15;-78;Básico;Adición nucleofílica;Adición aldólica cruzada de enolatos a quinonas;112-14-1;389579-01-5;31-331-CAS-5949414;;
+Acetato de octilo;172,26;-80;199;0,8718;N/a;1.84;180;29.1;Octano, 1- [[( 1mi) - 1- metil- 1- propen- 1- il] oxi] - (ACI);"	184.32";N/a;234,174;0,814;N/a;N/a;N/a;N/a;tetracloruro de titanio;N/a;N/a;N/a;"Diclorometano?
+rofurano tetrahidro";N/a;N/a;N/a;Básico;Adición nucleofílica;Olefinación de Takai;112-14-1;109585-96-8;31-320-CAS-15360336;;
+Acetato de octilo;172,26;-80;199;0,8718;N/a;1.84;180;29.1;7, 15- Diazad ispiro [5.1.5.3] hexadecane- 15- ácido acético, 14, 16- dioxo- , éster octílico (9CI, ACI );"
+420.59";75;586,718;1,115;5,561;N/a;N/a;N/a;N/a;N/a;N/a;N/a;N/a;N/a;N/a;25;Básico;Sustitución Nucleófila;N-Alquilación de amidas/imidas;112-14-1;80883-81-4;31-041-CAS-3619555;;
+Acetato de octilo;172,26;-80;199;0,8718;N/a;1.84;180;29.1;2- Ácido propenoico, 3- metoxi- , éster octílico, (2mi) - (ACI);214.30;N/a;135;0,931;N/a;N/a;N/a;N/a;lamina de trietilo;N/a;N/a;N/a;Diclorometano;120;N/a;-45;Básico;Condensación;Condensación de Claisen;112-14-1;2137064-23-2;31-614-CAS-27991886;;
+Acetato de octilo;172,26;-80;199;0,8718;N/a;1.84;180;29.1;2H- 1, 4- Benzoxazina- 3 ( 4H) - uno, 2- metil- 2- (octiloxi) - (ACI);291,39;N/a;428,836;"	1,085";11,894;N/a;N/a;N/a;N/a;triflato de estaño ( II);N/a;N/a;N/a;840;N/a;60;Básico;Sustitución Nucleófila;Reacción de acoplamiento;112-14-1; 2411130-95-3;31-614-CAS-29593867;;
+Acetato de octilo;172,26;-80;199;0,8718;N/a;1.84;180;29.1;Ácido bencenopolipanoico , 2- fluoro- ?- hidroxi- , éster octílico (9CI, ACI);296,38;N/a;403.940;1.071;13.038;N/a;N/a;N/a;diisopropilamida de litio;N/a;N/a;N/a;rofurano tetrahidro;45;N/a;-78;Básico;Adición nucleofílica;Reacción aldólica cruzada;112-14-1;830330-60-4;31-331-CAS-55807;;
+Acetato de octilo;172,26;-80;199;0,8718;N/a;1.84;180;29.1;1H- Indol, 5- metoxi- 2- metil- (9CI, ACI);161.20;86;145;1.134;"	0,13";N/a;N/a;N/a;"Butilo?
+2, 2 , 6, 6- Tetrametilpipe eridina";N/a;N/a;N/a;rofurano tetrahidro;N/a;N/a;N/a;Básico;Condensación;Síntesis de indoles;112-14-1;1076-74-0;31-614-CAS-26450757;;
+Octano, 1-bromo- (6CI, 8CI, 9CI, ACI);"
+193.12";-55;81;"
+1,11";N/a;N/a;0;45;Acetato de octilo;172,26;-80;199;0,8718;N/a;1.84;180;29.1;N/a;Piridina;N/a;N/a;N/a;N/a;N/a;100;Básico ;Sustitución nucleofílica;Sustitución con reactivos organotina;111-83-1;112-14-1;31-614-CAS-30712449;;
+Etenol, 1-etoxi-, 1-acetato (ACI);"
+130.14";N/a;"
+50,0";0,984;N/a;N/a;21;N/a;Acetato de octilo;172,26;-80;199;0,8718;N/a;1.84;180;29.1;N/a;Lipasa triacilglicerol;N/a;N/a;Éter diisopropílico;N/a;N/a;30;Neutro ;Sustitución nucleofílica;Acilación enzimática con 1-acetato de etoxivinilo;5177-66-2;112-14-1;31-357-CAS-14156244;;
+2-Decanone (6CI, 7CI, 8CI, 9CI, ACI);"
+156.27";14;209 ;0,825 ;N/a;N/a;1;N/a;Acetato de octilo;172,26;-80;199;0,8718;N/a;1.84;180;29.1;L-Rhamnose;Monooxigenasa de Baeyer-Villiger;N/a;N/a;Agua;1140;N/a;30;Neutro ;Oxidación-reducción;Oxidación Baeyer-Villiger con monooxigenasa de P. fluorescens;693-54-9;112-14-1;31-454-CAS-12662327;;
+Éster etílico de ácido acético (8CI, 9CI, ACI);"
+88.11";-83;77;"
+0,902 ";26;5,99 ;"
+900 ";14892;Acetato de octilo;172,26;-80;199;0,8718;N/a;1.84;180;29.1;N/a;Ácido benzenopropanoico, 4-etenilo-, éster trifenilstanil, polímero con dietenio...;N/a;N/a;N/a;2880;reflujo;N/a;Neutro ;Sustitución nucleofílica;Transesterificación con resinas estirénicas reticuladas;141-78-6;112-14-1;31-357-CAS-12769812;;
+1-Octanol (9IC, ACI);130.23;-17;194;0,827 ;15.0;2;5,4 x 10?;10;Acetato de octilo;172,26;-80;199;0,8718;N/a;1.84;180;29.1;2-octanol;Óxido de zinc (ZnO);N/a;N/a;N/a;N/a;rt;N/a;Neutro ;Sustitución nucleofílica;Oxiacilación quimioselectiva con ZnO;111-87-5;112-14-1;31-354-CAS-274595;;
+Ácido acético (7CI, 8CI, 9CI, ACI);"
+60.05";16,6;117,9;1,0446;"
+4.8";"
+17,4 ";"
+1000 ";"
+2100 ";Acetato de octilo;172,26;-80;199;0,8718;N/a;1.84;180;29.1;N/a;Óxido de hierro (Fe3O4);Sílice;1H-Imidazolio, 1,1',1''-[1,3,5-benzenetriyltris(metileno)]tris[3-etenilo-, bro...;N/a;900;rt;85;Ácido ;Sustitución nucleofílica;Esterificación catalizada por red iónica híbrida magnética;64-19-7;112-14-1; 31-614-CAS-46868337;;
+Ácido acético, sal potástica (1:1) (ACI);"
+99.15";292;N/a;1,57;4,8;N/a;"
+2686 ";"
+620";Acetato de octilo;172,26;-80;199;0,8718;N/a;1.84;180;29.1;N/a;Bromuro de tetrametilatonio;N/a;N/a;2-Clorotolueno;N/a;N/a;N/a;Neutro ;Sustitución nucleofílica;O-alquilación catalizada por sales de tetrametilamonio;127-08-2;112-14-1;31-017-CAS-11411062;;
+1-Octanol (9IC, ACI);130.23;-17;194;0,827 ;15.0;2;5,4 x 10?;10;Acetato de octilo;172,26;-80;199;0,8718;N/a;1.84;180;29.1;N/a;1-Butanaminium, N,N,N-tributilo-, (diclorostannato)octatetraconta-?-oxotetra-?6-...;N/a;N/a;Acetonitrilo;4;rt;N/a;Acido;Sustitución nucleofílica;Acetilación catalizada por porfirina-polioxometalato;111-87-5;112-14-1;31-355-CAS-9330579;;
+Éster de etenil de ácido acético (9IC, ACI);86.09;-93,2;"
+72,7";"
+0,932 ";N/a;1,79;25;N/a;Acetato de octilo;172,26;-80;199;0,8718;N/a;1.84;180;29.1;N/a;Lipasa triacilglicerol;N/a;N/a;Hexano;2880;N/a;55;Neutro ;Sustitución nucleofílica;Resolución cinética y transesterificación biocatalizada;108-05-4;112-14-1;31-357-CAS-12701945;;
+Ácido acético, 1,1?-anhídrido (ACI);"
+102.09";"
+-73 ";139,5 ;1,082 ;N/a;2.8;"
+262";N/a;Acetato de octilo;172,26;-80;199;0,8718;N/a;1.84;180;29.1;N/a;1,4,7-Tris(tert-butoxicarbonilmetil-1,4,7,10-tetraazaciclodecanano;N/a;N/a;Dimetilformamida;1;N/a;130;Básico ;Sustitución nucleofílica;Acetilación asistida por microondas con complejo de Gd;108-24-7;112-14-1;31-355-CAS-10548715;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
